@@ -1,0 +1,675 @@
+repo_url,default_score,depsdev_dependent_count,legacy_closed_issues_count,legacy_commit_frequency,legacy_contributor_count,legacy_created_since,legacy_github_mention_count,legacy_issue_comment_frequency,legacy_org_count,legacy_recent_release_count,legacy_updated_issues_count,legacy_updated_since,repo_created_at,repo_language,repo_license,repo_star_count,repo_updated_at
+https://github.com/abrt/abrt,0.64546,,423,0.48,215,182,14911,1.5,5,3,484,7,2009-02-02T13:17:15Z,C,GNU General Public License v2.0,229,2023-07-01T04:59:16Z
+https://github.com/AcademySoftwareFoundation/openexr,0.64295,,1367,3.52,126,255,782,2.16,5,10,1509,0,2003-01-21T06:34:28Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1541,2024-01-22T00:45:40Z
+https://github.com/appneta/tcpreplay,0.55548,,358,0.5,53,265,1006,1.44,4,1,403,7,2002-03-29T03:44:47Z,C,,1081,2023-06-11T18:12:27Z
+https://github.com/Mbed-TLS/mbedtls,0.74852,,6429,113.44,362,183,1605,2.88,6,10,7805,0,2009-01-03T21:22:43Z,C,Other,4734,2024-01-26T13:53:38Z
+https://github.com/axiomatic-systems/Bento4,0.53162,,261,0.69,49,221,342,1.41,2,3,705,0,2005-11-10T22:52:16Z,C++,,1802,2024-01-14T19:42:59Z
+https://github.com/eclipse-threadx/usbx,0.40477,,95,0.38,11,45,0,4.22,2,3,137,0,2020-05-11T15:03:23Z,C,Other,119,2024-01-30T15:11:03Z
+https://github.com/cesanta/mjs,0.45797,,33,0,17,86,50,0.46,4,8,177,27,2016-12-21T14:11:16Z,C,Other,1795,2021-10-28T13:51:39Z
+https://github.com/CESNET/libyang,0.64875,,1643,12.1,34,108,1473,3.05,7,5,1689,0,2015-03-13T10:25:52Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",337,2024-01-11T08:52:00Z
+https://github.com/contiki-ng/contiki-ng,0.65316,,2110,13,327,214,1020,1.85,4,1,2383,0,2006-06-17T22:41:10Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1209,2024-01-26T15:05:48Z
+https://github.com/electron/electron,0.82265,1625,29491,17.83,1432,132,132872,0.99,9,252,30404,0,2013-03-13T19:31:24Z,C++,MIT License,110456,2024-01-30T20:48:47Z
+https://github.com/envoyproxy/envoy,0.78862,2,28078,70.31,1271,91,24852,1.01,5,48,29699,0,2016-08-08T15:07:24Z,C++,Apache License 2.0,23418,2024-01-30T21:54:17Z
+https://github.com/espruino/Espruino,0.66472,,1073,10.81,149,125,1250,3.55,4,7,1191,0,2013-09-26T13:29:36Z,C,Other,2670,2024-01-30T10:06:22Z
+https://github.com/Exiv2/exiv2,0.67589,,2559,9.23,132,244,2071,4.39,4,4,2728,0,2004-01-15T02:44:33Z,C++,Other,822,2024-01-26T04:03:21Z
+https://github.com/facebook/hhvm,0.78884,,1434,181.46,2223,171,33365,2.75,1,139,1784,0,2010-01-02T01:17:06Z,C++,Other,17920,2024-01-30T22:44:04Z
+https://github.com/FFmpeg/FFmpeg,0.74066,,108,72.19,2355,281,46935,1.02,2,16,109,0,2000-12-20T00:02:47Z,C,Other,40702,2024-01-30T20:21:56Z
+https://github.com/mandiant/Vulnerability-Disclosures,0.36406,,10,0.58,8,51,1,1.7,4,0,10,0,2019-11-01T17:15:48Z,C++,,164,2024-01-13T15:02:39Z
+https://github.com/flatpak/flatpak,0.70912,,3532,2.96,223,111,4470,3.74,6,10,4577,0,2014-12-17T14:28:07Z,C,GNU Lesser General Public License v2.1,3961,2024-01-12T13:32:22Z
+https://github.com/git/git,0.89954,,963,53.04,2175,229,51831284,16.35,5,49,1125,0,2005-04-07T22:13:13Z,C,Other,48645,2024-01-30T20:33:02Z
+https://github.com/github/securitylab,0.5492,,444,0.52,32,69,30,6.08,6,4,470,3,2018-05-30T11:38:41Z,C,MIT License,1294,2023-10-23T16:28:17Z
+https://github.com/google/asylo,0.49095,,58,0,42,70,106,2.6,2,6,77,21,2018-04-25T16:43:56Z,C++,Apache License 2.0,959,2022-04-12T19:13:42Z
+https://github.com/gpac/gpac,0.66999,,1963,15.87,103,225,2056,2.58,8,1,1992,0,2005-07-13T14:37:22Z,C,GNU Lesser General Public License v2.1,2446,2024-01-30T13:29:01Z
+https://github.com/ImageMagick/ImageMagick,0.76057,,2308,21.38,171,175,25916,3.66,6,30,2412,0,2009-09-05T21:47:34Z,C,Other,10604,2024-01-30T19:01:59Z
+https://github.com/ImageMagick/ImageMagick6,0.63144,,194,11.58,49,175,606,2.29,6,25,246,0,2009-09-05T21:47:34Z,C,Other,182,2024-01-30T19:01:13Z
+https://github.com/jerryscript-project/jerryscript,0.53851,,2855,0.13,122,116,108,1.2,3,0,3040,1,2014-07-01T11:51:35Z,C,Apache License 2.0,6768,2023-12-15T11:12:59Z
+https://github.com/libexpat/libexpat,0.65657,1,637,5.42,102,319,5140,2.39,7,2,656,0,1997-11-04T05:43:52Z,C,MIT License,945,2024-01-30T21:54:37Z
+https://github.com/libming/libming,0.52427,,40,0,38,279,4938,0.55,5,0,209,42,2001-02-01T01:00:55Z,C,GNU Lesser General Public License v2.1,104,2020-07-23T05:13:14Z
+https://github.com/LibRaw/LibRaw,0.5515,,508,0.48,50,162,1775,3.51,1,1,518,0,2010-10-03T15:25:03Z,C++,Other,1016,2024-01-16T14:01:30Z
+https://github.com/mandiant/Vulnerability-Disclosures,0.36406,,10,0.58,8,51,1,1.7,4,0,10,0,2019-11-01T17:15:48Z,C++,,164,2024-01-13T15:02:39Z
+https://github.com/matthiaskramm/swftools,0.45159,,43,0,30,271,16,0.81,6,0,177,25,2001-10-18T10:31:20Z,C,GNU General Public License v2.0,250,2021-12-16T14:29:31Z
+https://github.com/jasper-software/jasper,0.59707,,244,0.71,31,89,1163,3.33,8,5,248,0,2016-09-16T18:52:32Z,C,Other,199,2024-01-20T20:40:12Z
+https://github.com/michaelrsweet/htmldoc,0.44746,,182,0.56,10,304,12,3.07,2,1,201,4,1999-02-02T03:55:36Z,C++,GNU General Public License v2.0,191,2023-09-18T01:33:38Z
+https://github.com/Moddable-OpenSource/moddable,0.62526,,961,24.87,67,76,60,4.18,5,15,1024,0,2017-10-17T04:08:41Z,C,,1234,2024-01-23T22:20:07Z
+https://github.com/mozilla-mobile/mozilla-vpn-client,0.57531,,8089,23.87,53,42,25,1.64,3,16,9015,0,2020-08-15T07:01:30Z,C++,Other,407,2024-01-30T19:37:11Z
+https://github.com/neutrinolabs/xrdp,0.67459,,1574,6,125,238,1816,4.72,5,5,1855,0,2004-07-09T02:33:57Z,C,Apache License 2.0,5076,2024-01-22T17:24:19Z
+https://github.com/nextcloud/desktop,0.77298,,5287,31.85,304,193,1719,4.77,10,26,6287,0,2008-02-27T17:56:47Z,C++,GNU General Public License v2.0,2720,2024-01-30T08:49:59Z
+https://github.com/nothings/stb,0.59964,,735,0.33,214,117,1329,2.4,4,0,981,1,2014-05-25T16:51:23Z,C,Other,24386,2023-12-14T18:59:23Z
+https://github.com/nu11secur1ty/CVE-mitre,0.27899,,7,5.83,1,37,2,1.43,0,0,7,1,2021-01-11T10:51:45Z,C,,113,2023-12-04T13:47:12Z
+https://github.com/nu11secur1ty/CVE-nu11secur1ty,0.26798,,4,23.81,1,35,0,1,0,0,4,0,2021-02-28T07:13:15Z,C,,44,2024-01-28T15:55:38Z
+https://github.com/AcademySoftwareFoundation/openexr,0.64295,,1367,3.52,126,255,782,2.16,5,10,1509,0,2003-01-21T06:34:28Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1541,2024-01-22T00:45:40Z
+https://github.com/pcmacdon/jsish,0.27869,,76,0,1,92,0,1.48,0,0,94,17,2016-07-08T13:28:40Z,C,MIT License,37,2022-08-23T14:47:10Z
+https://github.com/radareorg/radare2,0.69848,,12818,34.15,1098,182,219,1.99,5,3,13682,0,2009-02-05T21:08:46Z,C,GNU Lesser General Public License v3.0,19190,2024-01-30T10:08:24Z
+https://github.com/radareorg/radare2,0.69848,,12818,34.15,1098,182,219,1.99,5,3,13682,0,2009-02-05T21:08:46Z,C,GNU Lesser General Public License v3.0,19190,2024-01-30T10:08:24Z
+https://github.com/redis/redis,0.80262,,7194,9.15,780,180,29002,3.3,9,22,9100,0,2009-03-21T22:32:25Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",63216,2024-01-30T18:32:58Z
+https://github.com/rizinorg/rizin,0.6743,,3699,11.88,1022,182,71,2.01,5,7,4116,0,2009-02-05T21:08:46Z,C,GNU Lesser General Public License v3.0,2301,2024-01-30T14:36:39Z
+https://github.com/saitoha/libsixel,0.49916,,82,0,16,127,261,1.87,3,8,126,49,2013-08-20T15:52:45Z,C,MIT License,2344,2020-01-13T17:27:00Z
+https://github.com/Samsung/mTower,0.32873,,111,0.31,6,59,0,0.5,1,1,130,1,2019-03-12T06:19:43Z,C,Other,45,2023-12-06T08:55:36Z
+https://github.com/squid-cache/squid,0.68622,,1421,5.38,255,340,2158,3.43,4,13,1525,0,1996-02-22T13:23:53Z,C++,GNU General Public License v2.0,1854,2024-01-30T18:20:54Z
+https://github.com/strukturag/libde265,0.53834,,226,1.42,26,126,351,1.67,3,5,297,0,2013-08-26T16:35:37Z,C++,Other,1611,2024-01-18T07:25:26Z
+https://github.com/the-tcpdump-group/tcpdump,0.625,,422,6.02,211,296,800,4.26,3,1,514,0,1999-10-07T23:47:09Z,C,Other,2464,2024-01-28T16:58:38Z
+https://github.com/torvalds/linux,0.91331,,165,1661.85,5000,151,75534609,2.34,10,66,420,0,2011-09-04T22:45:10Z,C,Other,164926,2024-01-30T02:45:54Z
+https://github.com/tuxera/ntfs-3g,0.53374,,54,0.12,31,261,543,2.69,3,5,99,7,2002-08-22T14:28:33Z,C,GNU General Public License v2.0,785,2023-06-13T14:47:15Z
+https://github.com/uclouvain/openjpeg,0.60515,1,337,0.75,86,245,3380,1.73,6,1,502,0,2003-11-27T10:07:24Z,C,Other,924,2024-01-13T11:48:18Z
+https://github.com/upx/upx,0.62308,,604,6.56,21,288,4265,5.46,3,4,632,0,2000-05-19T16:04:55Z,C++,Other,12891,2024-01-27T22:16:53Z
+https://github.com/wolfSSL/wolfssl,0.70004,,5732,48.79,157,158,12384,1.36,3,5,5859,0,2011-02-05T19:14:47Z,C,GNU General Public License v2.0,2106,2024-01-30T13:46:57Z
+https://github.com/zephyrproject-rtos/zephyr,0.8245,,59225,307.08,2381,107,27482,0.49,9,10,61706,0,2015-04-10T23:44:37Z,C,Apache License 2.0,9078,2024-01-30T09:40:15Z
+https://github.com/OpenIDC/mod_auth_openidc,0.57521,,305,3.92,55,119,95,2.61,4,10,305,0,2014-03-27T18:54:06Z,C,Apache License 2.0,927,2024-01-30T14:42:37Z
+https://github.com/cms-sw/cmssw,0.8411,,21621,106.48,2809,311,22370,2,7,102,22422,0,1998-07-01T09:18:03Z,C++,Apache License 2.0,989,2024-01-30T20:15:58Z
+https://github.com/tensorflow/tensorflow,0.84386,856,45925,316.15,4535,100,250433,0.63,3,17,47978,0,2015-11-07T00:27:58Z,C++,Apache License 2.0,180282,2024-01-30T22:53:54Z
+https://github.com/git/git,0.89954,,963,53.04,2175,229,56998257,16.35,5,49,1125,0,2005-04-07T22:13:13Z,C,Other,48645,2024-01-30T20:33:02Z
+https://github.com/ceph/ceph,0.83627,,36374,125.15,1842,277,745183,0.81,4,16,37067,0,2001-04-29T10:23:23Z,C++,Other,12878,2024-01-30T17:13:30Z
+https://github.com/php/php-src,0.86794,,9394,70.46,1461,302,302530,2.93,7,52,10254,0,1999-04-07T18:10:10Z,C,Other,36761,2024-01-30T20:58:19Z
+https://github.com/raspberrypi/linux,0.91727,,2905,229.96,5000,228,176084,7.68,10,5,3760,0,2005-04-16T22:20:36Z,C,Other,10426,2024-01-26T11:49:42Z
+https://github.com/intel/gvt-linux,0.89635,,147,139.92,5000,228,199811,6.8,10,39,228,10,2005-04-16T22:20:36Z,C,Other,485,2023-03-16T02:38:04Z
+https://github.com/facebook/react-native,0.85046,14565,33541,74.06,3675,110,548817,0.86,4,57,34704,0,2015-01-09T18:10:16Z,C++,MIT License,114019,2024-01-30T20:54:26Z
+https://github.com/openssl/openssl,0.83419,,15576,41.87,1100,305,1969147,1.67,5,21,18018,0,1998-12-21T10:52:45Z,C,Apache License 2.0,23617,2024-01-29T17:50:56Z
+https://github.com/torvalds/linux,0.91331,,165,1661.85,5000,151,83740685,2.34,10,66,420,0,2011-09-04T22:45:10Z,C,Other,164927,2024-01-30T02:45:54Z
+https://github.com/systemd/systemd,0.85183,,21765,160.92,2664,228,306268,1.26,5,12,23860,0,2005-04-27T03:59:47Z,C,GNU General Public License v2.0,12110,2024-01-30T08:34:17Z
+https://github.com/electron/electron,0.82265,1625,29491,17.83,1432,132,132872,0.99,9,252,30404,0,2013-03-13T19:31:24Z,C++,MIT License,110457,2024-01-30T20:48:47Z
+https://github.com/CleverRaven/Cataclysm-DDA,0.7865,,47181,140.06,2603,162,13124,0.61,3,2203,49153,0,2010-10-04T03:22:35Z,C++,Other,9328,2024-01-30T15:12:18Z
+https://github.com/qmk/qmk_firmware,0.82915,,20193,51.75,3294,164,54114,1.44,5,115,20814,0,2010-08-10T04:34:06Z,C,GNU General Public License v2.0,16557,2024-01-30T20:20:24Z
+https://github.com/apple/swift,0.74845,,46329,297.48,1334,164,42052,0.56,1,5,53392,0,2010-07-17T23:50:59Z,C++,Apache License 2.0,65083,2024-01-30T22:29:30Z
+https://github.com/zephyrproject-rtos/zephyr,0.8245,,59225,307.08,2381,107,27482,0.49,9,10,61706,0,2015-04-10T23:44:37Z,C,Apache License 2.0,9078,2024-01-30T09:40:15Z
+https://github.com/opencv/opencv,0.78192,1,13017,22.46,2113,167,23872,2.01,6,3,14896,0,2010-05-11T17:44:00Z,C++,Apache License 2.0,73847,2024-01-30T14:01:50Z
+https://github.com/MarlinFirmware/Marlin,0.78172,,21214,21.44,1241,151,38032,1.36,5,15,21993,0,2011-08-12T20:23:37Z,C++,GNU General Public License v3.0,15649,2024-01-30T06:06:23Z
+https://github.com/qgis/QGIS,0.7737,,45497,83.04,667,262,4783,0.6,11,25,49837,0,2002-07-06T00:33:05Z,C++,GNU General Public License v2.0,9253,2024-01-30T17:41:57Z
+https://github.com/openwrt/openwrt,0.79938,,10570,57.31,1373,241,96472,2.31,3,9,12999,0,2004-03-28T00:16:07Z,C,Other,17481,2024-01-28T15:10:36Z
+https://github.com/envoyproxy/envoy,0.78862,2,28078,70.31,1271,91,24852,1.01,5,48,29699,0,2016-08-08T15:07:24Z,C++,Apache License 2.0,23418,2024-01-30T21:54:17Z
+https://github.com/ArduPilot/ardupilot,0.81516,,17072,106.35,979,166,31383,1.55,9,12,19389,0,2010-05-14T17:48:06Z,C++,GNU General Public License v3.0,9454,2024-01-25T11:46:38Z
+https://github.com/u-boot/u-boot,0.8157,,371,135.92,3379,287,151066,0.31,7,19,465,0,2000-06-17T20:10:14Z,C,,3410,2024-01-30T12:54:28Z
+https://github.com/qemu/qemu,0.81305,,187,181.67,2728,255,353993,1.02,4,17,187,0,2003-02-18T22:55:36Z,C,Other,8887,2024-01-29T10:53:55Z
+https://github.com/ARMmbed/mbed-os,0.72702,,9642,2.25,996,133,5681,3.05,8,1,9843,1,2013-02-18T15:23:11Z,C,Other,4514,2023-12-20T11:43:00Z
+https://github.com/espressif/esp-idf,0.83258,,10217,134.15,982,90,455456,2.53,3,19,11853,0,2016-08-17T10:40:35Z,C,Apache License 2.0,11965,2024-01-25T07:07:55Z
+https://github.com/redis/redis,0.80262,,7194,9.15,780,180,29002,3.3,9,22,9100,0,2009-03-21T22:32:25Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",63216,2024-01-30T18:32:58Z
+https://github.com/trilinos/Trilinos,0.74641,,10708,50.75,651,316,13569,2.7,3,4,11119,0,1998-02-13T23:00:10Z,C++,Other,1125,2024-01-27T19:56:59Z
+https://github.com/xbmc/xbmc,0.77435,,13237,59.71,1166,174,29819,2,3,8,14063,0,2009-09-23T01:49:50Z,C++,Other,16899,2024-01-30T19:58:14Z
+https://github.com/emscripten-core/emscripten,0.77439,,14183,28.37,860,163,19407,1.86,4,32,16102,0,2010-08-26T03:38:48Z,C++,Other,24808,2024-01-30T20:34:51Z
+https://github.com/Gnucash/gnucash,0.7844,,1536,33.9,451,319,125338,4.08,4,11,1575,0,1997-11-01T01:39:32Z,C,Other,2897,2024-01-29T16:01:46Z
+https://github.com/ethereum/solidity,0.751,,11193,18.35,679,122,6504,2.58,6,7,11626,0,2014-01-03T01:27:19Z,C++,GNU General Public License v3.0,21638,2024-01-30T16:32:39Z
+https://github.com/open-mpi/ompi,0.77969,,7418,12,381,245,31712,3.72,8,10,8058,0,2003-11-22T16:36:58Z,C,Other,1921,2024-01-30T23:13:43Z
+https://github.com/flutter/engine,0.84559,,45435,132.35,670,131,957878,6,2,23,5000,0,2013-04-19T17:28:48Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",6960,2024-01-30T23:10:36Z
+https://github.com/godotengine/godot,0.80741,,63655,175.19,2689,131,37684,0.4,5,13,75495,0,2013-04-10T08:37:04Z,C++,MIT License,80125,2024-01-30T18:35:09Z
+https://github.com/PaddlePaddle/Paddle,0.76561,,52007,128.88,1158,90,26976,0.56,6,3,53968,0,2016-08-15T06:59:08Z,C++,Apache License 2.0,21288,2024-01-30T14:00:55Z
+https://github.com/RIOT-OS/RIOT,0.74357,,12222,47.92,481,162,5241,2.32,6,4,12954,0,2010-09-22T13:10:42Z,C,GNU Lesser General Public License v2.1,4707,2024-01-30T19:07:04Z
+https://github.com/telegramdesktop/tdesktop,0.75825,,14412,44.56,187,118,16339,1.97,6,70,15222,0,2014-05-02T12:36:31Z,C++,Other,23806,2024-01-29T07:43:02Z
+https://github.com/libuv/libuv,0.75801,,2298,3.46,563,156,41612,4.2,8,3,2462,0,2011-03-23T08:39:59Z,C,MIT License,22792,2024-01-21T15:44:34Z
+https://github.com/arangodb/arangodb,0.74802,,15590,28.31,160,149,15599,1.52,7,52,16324,0,2011-10-26T06:42:00Z,C++,Apache License 2.0,13245,2024-01-30T18:46:35Z
+https://github.com/v8/v8,0.77406,,51,125.83,1064,189,757604,1.68,2,1890,63,0,2008-06-30T17:16:55Z,C++,Other,22278,2024-01-30T16:17:39Z
+https://github.com/lxc/lxc,0.74018,,2152,2.06,536,188,33693,2.94,6,8,2330,0,2008-08-06T14:32:29Z,C,Other,4343,2024-01-30T01:37:41Z
+https://github.com/FRRouting/frr,0.76956,,12994,74.62,605,257,5460,2.22,7,9,13537,0,2002-12-13T20:15:29Z,C,Other,2867,2024-01-30T21:02:18Z
+https://github.com/apache/mxnet,0.68867,,9982,0,983,106,459,2.52,11,5,11925,12,2015-04-30T16:21:15Z,C++,Apache License 2.0,20682,2023-01-26T21:28:45Z
+https://github.com/iovisor/bcc,0.77091,,2566,4.56,621,106,105160,3.01,8,4,3364,0,2015-04-26T07:56:42Z,C,Apache License 2.0,18836,2024-01-30T22:53:19Z
+https://github.com/Bitcoin-ABC/bitcoin-abc,0.75185,,319,41.87,858,175,14707,2.39,4,27,397,0,2009-08-30T03:46:39Z,C++,MIT License,1130,2024-01-30T17:37:14Z
+https://github.com/libretro/RetroArch,0.76111,,8172,26.92,705,228,6977,2.8,7,5,10733,0,2005-04-23T18:22:55Z,C,GNU General Public License v3.0,8877,2024-01-30T00:11:30Z
+https://github.com/xanmod/linux,0.79907,,293,1416.77,5000,86,181,2.8,10,140,392,0,2016-12-13T19:35:00Z,C,Other,835,2024-01-27T02:59:56Z
+https://github.com/facebook/hhvm,0.78886,,1434,181.46,2225,171,33365,2.75,1,139,1784,0,2010-01-02T01:17:06Z,C++,Other,17920,2024-01-30T22:44:04Z
+https://github.com/sparklemotion/nokogiri,0.77316,,1464,10.79,256,189,930981,2.6,5,12,1563,0,2008-07-14T15:34:05Z,C,MIT License,6091,2024-01-30T15:46:21Z
+https://github.com/warmcat/libwebsockets,0.7191,,1802,1.31,483,161,10992,4.48,5,7,1898,0,2010-10-28T21:36:01Z,C,Other,4479,2024-01-17T08:54:48Z
+https://github.com/ImageMagick/ImageMagick,0.76057,,2308,21.38,171,175,25916,3.66,6,30,2412,0,2009-09-05T21:47:34Z,C,Other,10604,2024-01-30T19:01:59Z
+https://github.com/mongodb/mongo,0.79302,1,293,155.92,1186,198,35417,1.6,6,76,364,0,2007-10-19T23:35:48Z,C++,Other,25039,2024-01-30T22:06:56Z
+https://github.com/obsproject/obs-studio,0.76748,,9134,31.4,643,125,10048,3.07,4,19,9764,0,2013-10-01T02:37:13Z,C,GNU General Public License v2.0,53840,2024-01-29T20:03:55Z
+https://github.com/dmlc/xgboost,0.73646,789,9595,10.96,635,121,2069,2.43,8,8,10009,0,2014-02-06T17:28:03Z,C++,Apache License 2.0,25265,2024-01-30T21:33:37Z
+https://github.com/FFmpeg/FFmpeg,0.74066,,108,72.19,2355,281,46936,1.02,2,16,109,0,2000-12-20T00:02:47Z,C,Other,40703,2024-01-30T20:21:56Z
+https://github.com/FreeRDP/FreeRDP,0.80168,,5178,29.37,486,153,21631,4.46,8,15,5586,0,2011-06-30T19:12:51Z,C,Apache License 2.0,9667,2024-01-25T10:39:49Z
+https://github.com/google/kmsan,0.80459,,57,712.88,5000,228,27822,2.79,10,0,63,14,2005-04-16T22:20:36Z,C,Other,402,2022-11-10T08:58:00Z
+https://github.com/OP-TEE/optee_os,0.78161,,4655,20.56,319,117,31044,5.26,7,7,4727,0,2014-05-26T17:18:57Z,C,Other,1426,2024-01-30T05:50:47Z
+https://github.com/zcash/zcash,0.75073,,3630,16.25,618,175,6349,3.46,5,10,4599,0,2009-08-30T03:46:39Z,C++,Other,4821,2024-01-03T02:06:50Z
+https://github.com/NixOS/nix,0.7917,,5583,47.1,627,254,13008,3.47,9,6,8634,0,2003-03-12T13:32:24Z,C++,GNU Lesser General Public License v2.1,9864,2024-01-30T15:42:54Z
+https://github.com/mavlink/qgroundcontrol,0.73672,,4328,7.63,357,168,44407,2.52,4,6,5429,0,2010-04-03T08:14:31Z,C++,Other,2775,2024-01-29T07:50:13Z
+https://github.com/qt/qtbase,0.77587,,42,107.37,1721,155,86690,0.77,7,17,74,0,2011-04-27T10:05:43Z,C++,,2189,2024-01-30T15:32:32Z
+https://github.com/gluster/glusterfs,0.73004,,3793,1.38,413,218,1576,6.37,6,32,4006,0,2006-02-18T01:08:13Z,C,GNU General Public License v2.0,4381,2024-01-17T04:37:48Z
+https://github.com/TrinityCore/TrinityCore,0.74397,,8323,23.15,930,186,39331,3.12,1,8,9612,0,2008-10-02T21:23:55Z,C++,GNU General Public License v2.0,8829,2024-01-30T20:29:55Z
+https://github.com/util-linux/util-linux,0.76042,,1897,32.79,959,380,14861,2.6,5,6,2158,0,1992-10-31T20:42:48Z,C,GNU General Public License v2.0,2380,2024-01-29T13:01:52Z
+https://github.com/multipath-tcp/mptcp,0.82918,,232,25.4,5000,228,89542,4.98,10,3,293,8,2005-04-16T22:20:36Z,C,Other,875,2023-05-19T09:06:01Z
+https://github.com/Xilinx/linux-xlnx,0.80718,,60,8.23,5000,132,348788,1.18,10,20,61,10,2013-03-19T22:08:45Z,C,Other,1257,2023-03-16T10:03:39Z
+https://github.com/darktable-org/darktable,0.72122,,14237,77.04,602,180,2080,2.04,3,6,14687,0,2009-04-07T07:13:23Z,C,GNU General Public License v3.0,8560,2024-01-29T21:36:02Z
+https://github.com/root-project/root,0.74066,,12019,64,491,288,2209,2.33,4,17,12869,0,2000-05-16T17:00:58Z,C++,Other,2334,2024-01-30T12:15:04Z
+https://github.com/owncloud/client,0.75561,,5104,21.46,183,193,9026,3.04,7,29,5586,0,2008-02-27T17:56:47Z,C++,GNU General Public License v2.0,1363,2024-01-23T15:16:40Z
+https://github.com/tianocore/edk2,0.73725,,4966,24.62,783,216,37909,0.67,4,4,5047,0,2006-04-21T22:54:32Z,C,Other,4045,2024-01-28T21:33:32Z
+https://github.com/lammps/lammps,0.74284,,3227,61.73,361,211,1342,3.29,7,11,3309,0,2006-09-21T16:22:34Z,C++,GNU General Public License v2.0,1950,2024-01-30T03:46:05Z
+https://github.com/RobotLocomotion/drake,0.74914,,12846,30.1,237,164,9746,2.17,7,13,13796,0,2010-08-03T04:49:35Z,C++,Other,2926,2024-01-30T21:58:45Z
+https://github.com/stan-dev/math,0.7189,,2168,8.79,169,150,2686,6.76,6,9,2447,0,2011-09-30T01:57:32Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",700,2024-01-29T19:38:05Z
+https://github.com/apache/nuttx,0.71339,,11168,79.06,841,206,525,1.85,3,10,11609,0,2007-02-17T23:21:28Z,C,Apache License 2.0,2201,2024-01-30T07:42:42Z
+https://github.com/nextcloud/desktop,0.77298,,5287,31.85,304,193,1719,4.77,10,26,6287,0,2008-02-27T17:56:47Z,C++,GNU General Public License v2.0,2720,2024-01-30T08:49:59Z
+https://github.com/openzfs/zfs,0.77103,,8164,12.33,720,193,6718,3.18,8,13,9432,0,2008-02-26T20:36:04Z,C,Other,9909,2024-01-23T10:14:06Z
+https://github.com/greenplum-db/gpdb,0.76086,,12530,31.96,582,335,2914,2.12,7,25,12984,0,1996-07-09T06:22:35Z,C,Apache License 2.0,6105,2024-01-29T18:07:47Z
+https://github.com/Mesa3D/mesa,0.70785,,20,79.5,1406,316,2434,0.75,7,31,20,11,1998-02-14T17:45:13Z,C,,1128,2023-02-27T17:46:08Z
+https://github.com/Mbed-TLS/mbedtls,0.74852,,6429,113.44,362,183,1605,2.88,6,10,7805,0,2009-01-03T21:22:43Z,C,Other,4734,2024-01-26T13:53:38Z
+https://github.com/sonyxperiadev/kernel,0.70788,,1027,0.13,5000,228,4096,1.76,10,0,1035,18,2005-04-16T22:20:36Z,C,Other,339,2022-07-22T15:24:47Z
+https://github.com/CGAL/cgal,0.73981,,4605,55.29,293,346,2114,4.01,6,6,5119,0,1995-08-09T16:58:01Z,C++,Other,4386,2024-01-24T15:03:06Z
+https://github.com/facebook/folly,0.7887,,994,16.42,1451,142,87222,2.22,4,49,1419,0,2012-06-01T20:49:04Z,C++,Apache License 2.0,26687,2024-01-30T21:40:06Z
+https://github.com/mlpack/mlpack,0.71722,,2461,19.85,311,205,819,5.8,7,4,2485,0,2007-03-13T21:27:11Z,C++,Other,4669,2024-01-28T22:04:49Z
+https://github.com/meganz/sdk,0.73373,,1633,60.31,121,124,2040,4.83,6,51,1710,0,2013-11-20T12:33:53Z,C++,"BSD 2-Clause ""Simplified"" License",1303,2024-01-21T22:31:54Z
+https://github.com/haiku/haiku,0.67502,,17,20.27,390,262,817487,1.47,3,0,17,0,2002-07-09T12:24:59Z,C++,Other,1713,2024-01-30T20:57:53Z
+https://github.com/mixxxdj/mixxx,0.71894,,9475,55.75,338,536,6702,2.63,3,3,11398,0,1980-01-01T00:32:19Z,C++,Other,3895,2024-01-30T17:04:01Z
+https://github.com/libvirt/libvirt,0.71305,,88,42.88,876,222,33688,1.14,2,32,88,0,2005-11-02T12:50:21Z,C,GNU Lesser General Public License v2.1,1280,2024-01-20T17:20:21Z
+https://github.com/Kitware/CMake,0.72551,,45,77.44,1767,285,4445,1.02,5,39,45,0,2000-08-29T14:56:51Z,C,Other,6277,2024-01-30T16:30:58Z
+https://github.com/GNOME/gtk,0.74834,,4,83.75,2066,318,58108,1,6,29,4,0,1997-11-24T22:37:52Z,C,Other,1314,2024-01-30T18:17:33Z
+https://github.com/swoole/swoole-src,0.67841,,3619,2.62,203,140,2222,2.42,6,6,3714,0,2012-07-21T13:49:59Z,C++,Apache License 2.0,18127,2024-01-24T12:19:11Z
+https://github.com/scylladb/scylladb,0.72509,,11755,117.08,168,115,3512,2.07,3,34,14501,0,2014-08-10T05:56:33Z,C++,GNU Affero General Public License v3.0,12013,2024-01-30T12:00:14Z
+https://github.com/Z3Prover/z3,0.74844,,5334,18.5,325,137,12924,1.89,10,4,5463,0,2012-10-02T15:00:13Z,C++,Other,9492,2024-01-30T22:53:59Z
+https://github.com/blender/blender,0.74596,,66,212.69,1061,259,36907,1.3,4,9,69,0,2002-10-12T11:37:38Z,C,Other,10753,2024-01-30T22:24:40Z
+https://github.com/RPCS3/rpcs3,0.72271,,10160,26.5,324,136,30855,2.71,2,4,11084,0,2012-11-03T15:16:18Z,C++,GNU General Public License v2.0,13809,2024-01-29T23:06:08Z
+https://github.com/ros-planning/moveit,0.72301,,2333,2.52,370,149,4864,4.5,8,5,2898,0,2011-10-12T03:01:20Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1507,2024-01-26T11:21:40Z
+https://github.com/IntelRealSense/librealsense,0.67381,,11090,5.15,358,103,2037,2.61,4,2,11507,0,2015-07-19T04:32:10Z,C++,Apache License 2.0,7173,2024-01-08T10:55:15Z
+https://github.com/OpenMathLib/OpenBLAS,0.66671,,3025,18,306,158,59,4.95,5,5,3139,0,2011-01-24T06:34:44Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",5772,2024-01-30T21:53:29Z
+https://github.com/prusa3d/PrusaSlicer,0.75863,,7753,43.77,219,151,14322,2.59,5,23,11601,0,2011-09-01T19:06:28Z,C++,GNU Affero General Public License v3.0,7094,2024-01-08T10:09:16Z
+https://github.com/KratosMultiphysics/Kratos,0.74325,,9897,130.15,260,182,1808,2.87,8,4,10438,0,2009-01-28T16:25:29Z,C++,Other,924,2024-01-29T18:05:08Z
+https://github.com/libgit2/libgit2,0.74332,,1963,9.5,557,185,7195,2.72,8,8,2415,0,2008-10-31T16:57:29Z,C,Other,9305,2024-01-26T10:35:37Z
+https://github.com/InsightSoftwareConsortium/ITK,0.7229,,4059,15.5,429,292,3596,2.99,7,2,4375,0,2000-01-24T22:33:07Z,C++,Apache License 2.0,1306,2024-01-27T11:03:29Z
+https://github.com/AMReX-Codes/amrex,0.70841,,3224,8.4,224,376,8197,1.41,6,12,3358,0,1993-03-12T19:37:55Z,C++,Other,461,2024-01-30T19:02:08Z
+https://github.com/NREL/EnergyPlus,0.7522,,3546,63.88,115,124,5403,4.14,7,17,4364,0,2013-11-22T14:47:34Z,C++,Other,969,2024-01-29T16:50:57Z
+https://github.com/mamedev/mame,0.70688,,8219,67.98,612,196,29211,1.8,0,10,8764,0,2007-12-17T05:15:05Z,C++,Other,7146,2024-01-30T15:37:12Z
+https://github.com/letscontrolit/ESPEasy,0.73746,,3796,37.94,196,106,2750,7.17,4,12,4186,0,2015-05-01T13:35:39Z,C++,Other,3048,2024-01-30T12:33:20Z
+https://github.com/doxygen/doxygen,0.70401,,8139,29.17,296,293,12819,1.51,3,3,9998,0,1999-12-13T14:59:13Z,C++,GNU General Public License v2.0,5217,2024-01-30T18:24:33Z
+https://github.com/psi4/psi4,0.71462,,2031,2.85,281,197,5839,3.15,13,4,2412,0,2007-11-09T19:32:27Z,C++,GNU Lesser General Public License v3.0,880,2024-01-19T02:19:13Z
+https://github.com/endlessm/linux,0.7863,,293,793.79,5000,228,1295,0.32,10,16,293,0,2005-04-16T22:20:36Z,C,Other,282,2024-01-26T12:51:44Z
+https://github.com/scummvm/scummvm,0.7311,,4520,209.79,751,271,8414,2.8,1,3,4556,0,2001-10-09T14:30:12Z,C++,GNU General Public License v3.0,2135,2024-01-30T22:36:51Z
+https://github.com/EOSIO/eos,0.69186,,9643,0,294,83,52211,1.63,3,23,10028,30,2017-04-05T17:09:53Z,C++,MIT License,11289,2021-07-19T23:22:42Z
+https://github.com/esp8266/Arduino,0.68384,,5091,1.25,525,112,6522,4.05,3,1,5431,0,2014-11-15T07:45:08Z,C++,GNU Lesser General Public License v2.1,15590,2024-01-22T20:34:12Z
+https://github.com/zeek/zeek,0.71617,,3165,34.48,200,162,2828,2.21,5,16,3307,0,2010-09-28T03:42:30Z,C++,Other,5746,2024-01-30T20:47:06Z
+https://github.com/idaholab/moose,0.73424,,10232,119.67,362,121,5462,2.51,7,0,11976,0,2014-02-14T21:22:37Z,C++,GNU Lesser General Public License v2.1,1496,2024-01-30T20:58:52Z
+https://github.com/facebook/proxygen,0.76155,,238,22.6,498,113,126228,2.8,4,50,266,0,2014-10-03T23:18:42Z,C++,Other,7978,2024-01-30T17:32:17Z
+https://github.com/dealii/dealii,0.72386,,10568,67.58,332,318,484,2.7,10,3,11106,0,1997-11-24T13:02:38Z,C++,Other,1221,2024-01-30T16:54:49Z
+https://github.com/mpv-player/mpv,0.70523,,7394,29.27,678,279,8272,3.59,1,2,8364,0,2001-02-24T20:28:24Z,C,Other,25015,2024-01-19T23:08:30Z
+https://github.com/su2code/SU2,0.69631,,1451,13.87,192,128,8652,3.48,5,2,1510,5,2013-06-28T19:52:40Z,C++,Other,1191,2023-08-29T04:19:53Z
+https://github.com/iproute2/iproute2,0.6483,,15,6.88,672,240,9215,1.25,4,6,16,0,2004-04-15T20:53:01Z,C,GNU General Public License v2.0,751,2024-01-26T10:08:55Z
+https://github.com/MusicPlayerDaemon/MPD,0.70597,,1390,14.06,329,242,7518,3.16,3,9,1560,0,2004-02-23T23:41:20Z,C++,GNU General Public License v2.0,2006,2024-01-19T09:31:47Z
+https://github.com/wazuh/wazuh,0.75441,,18154,79.5,400,223,7654,1.44,5,18,20837,0,2005-09-23T15:10:04Z,C,Other,8207,2024-01-30T11:40:24Z
+https://github.com/OpenMW/openmw,0.71177,,1680,60.25,408,190,10996,4.46,2,1,1681,0,2008-06-22T17:59:37Z,C++,GNU General Public License v3.0,5026,2024-01-30T23:18:59Z
+https://github.com/cocos2d/cocos2d-x,0.68524,,1817,0.06,875,165,34602,1.54,2,7,2573,5,2010-07-06T02:15:50Z,C++,,17736,2023-08-06T07:01:12Z
+https://github.com/gnuradio/gnuradio,0.72665,,5218,5.42,464,212,3937,2.68,6,11,5686,1,2006-08-03T04:51:51Z,C++,GNU General Public License v3.0,4668,2023-12-15T11:59:42Z
+https://github.com/linux-rdma/rdma-core,0.74164,,1122,6.79,447,231,14436,1.68,8,105,1129,0,2005-01-25T22:19:06Z,C,Other,1263,2024-01-25T11:58:54Z
+https://github.com/ccache/ccache,0.67756,,962,5.4,177,266,8591,3.8,3,6,1006,0,2002-03-26T14:46:43Z,C++,Other,2096,2024-01-22T18:56:11Z
+https://github.com/RT-Thread/rt-thread,0.73148,,7091,22.67,879,182,6444,1.54,5,3,7336,0,2009-02-12T00:47:33Z,C,Apache License 2.0,9235,2024-01-29T03:40:11Z
+https://github.com/openjdk/jfx,0.71992,2170,1320,5.81,230,148,1126,11.68,4,58,1353,0,2011-11-10T19:01:14Z,C++,GNU General Public License v2.0,2438,2024-01-30T19:17:12Z
+https://github.com/coolsnowwolf/lede,0.66491,,10611,13.27,491,77,35601,2.67,0,2,11250,0,2017-09-06T07:39:03Z,C,Other,28149,2024-01-30T18:50:02Z
+https://github.com/hrydgard/ppsspp,0.72886,,7954,80.5,445,144,7914,3.3,1,13,9097,0,2012-03-24T22:39:19Z,C++,Other,9993,2024-01-30T21:47:21Z
+https://github.com/GNOME/glib,0.75778,,14,39.58,1682,312,39620,1.71,8,21,14,0,1998-06-10T23:21:14Z,C,Other,1432,2024-01-30T16:39:09Z
+https://github.com/rapidsai/cudf,0.72073,8,13904,39.77,271,83,5838,2.01,4,13,14905,0,2017-03-30T22:58:36Z,C++,Apache License 2.0,6986,2024-01-30T22:04:52Z
+https://github.com/micropython/micropython,0.77193,3,6237,21.87,616,125,21745,3.8,6,4,7901,0,2013-10-04T18:53:11Z,C,Other,17884,2024-01-25T17:11:31Z
+https://github.com/microsoft/terminal,0.70671,,14457,10.62,406,78,8748,1.88,3,13,15976,0,2017-08-11T18:38:22Z,C++,MIT License,92293,2024-01-30T01:24:18Z
+https://github.com/minetest/minetest,0.68914,,7136,15.42,972,160,2802,3.59,1,2,8347,0,2010-11-26T23:02:21Z,C++,Other,9816,2024-01-30T20:52:04Z
+https://github.com/flatpak/flatpak,0.70912,,3532,2.96,223,111,4470,3.74,6,10,4577,0,2014-12-17T14:28:07Z,C,GNU Lesser General Public License v2.1,3961,2024-01-12T13:32:22Z
+https://github.com/checkpoint-restore/criu,0.71913,,1821,7.44,193,150,10322,4.67,6,5,2016,0,2011-09-23T08:00:45Z,C,Other,2523,2024-01-23T07:28:40Z
+https://github.com/cockpit-project/cockpit,0.70575,,11054,32.62,215,124,1329,2.63,3,34,11404,0,2013-11-01T17:36:46Z,C,GNU Lesser General Public License v2.1,9855,2024-01-30T18:01:10Z
+https://github.com/pwsafe/pwsafe,0.67581,,627,5.92,120,269,25867,2.13,3,12,695,0,2001-11-30T17:12:16Z,C++,Other,657,2024-01-30T20:09:49Z
+https://github.com/mruby/mruby,0.68628,,2199,16.06,330,143,4479,1.1,6,2,2282,0,2012-04-19T09:11:15Z,C,MIT License,5212,2024-01-27T06:10:29Z
+https://github.com/percona/percona-server,0.70687,,3012,36.42,938,286,497,0.9,4,43,3054,0,2000-07-31T19:10:05Z,C++,Other,1066,2024-01-22T12:07:30Z
+https://github.com/AcademySoftwareFoundation/OpenImageIO,0.61011,,2186,5.29,234,192,10,1.97,5,18,2303,0,2008-04-21T20:46:21Z,C++,Apache License 2.0,1834,2024-01-30T22:33:15Z
+https://github.com/crawl/crawl,0.70517,,2507,40.83,504,212,3612,1.67,3,6,2830,0,2006-08-13T01:56:14Z,C++,Other,2153,2024-01-26T06:15:38Z
+https://github.com/wine-mirror/wine,0.68892,,21,137,2288,372,706,1.75,2,25,32,0,1993-06-29T16:33:12Z,C,Other,2785,2024-01-29T22:20:55Z
+https://github.com/acassen/keepalived,0.66741,,1574,2.02,164,174,2134,2.68,6,8,1609,0,2009-09-28T08:58:44Z,C,GNU General Public License v2.0,3721,2024-01-29T14:25:14Z
+https://github.com/PointCloudLibrary/pcl,0.69313,,3626,4.02,647,157,719,3.71,5,4,4212,0,2011-03-02T23:47:05Z,C++,Other,9219,2024-01-29T20:24:51Z
+https://github.com/KhronosGroup/Vulkan-ValidationLayers,0.7603,,7200,49.17,351,115,18460,4.06,4,6,7391,0,2014-07-24T23:04:01Z,C++,Other,666,2024-01-29T23:16:01Z
+https://github.com/beagleboard/linux,0.85053,,144,713.46,5000,228,12474,2.52,10,332,184,6,2005-04-16T22:20:36Z,C,Other,684,2023-07-12T19:16:47Z
+https://github.com/linux-test-project/ltp,0.74341,,664,14.81,515,289,60426,2.55,6,3,929,0,2000-05-05T19:34:50Z,C,GNU General Public License v2.0,2188,2024-01-25T11:05:10Z
+https://github.com/rsyslog/rsyslog,0.73565,,4535,3.88,414,234,8209,2.68,5,25,5204,0,2004-11-08T13:52:36Z,C,GNU Lesser General Public License v3.0,1909,2024-01-10T11:50:24Z
+https://github.com/sass/node-sass,0.68473,13923,1171,0.08,216,146,35846,3.25,7,1,1327,8,2012-01-31T22:51:49Z,C++,MIT License,8460,2023-05-20T05:26:12Z
+https://github.com/radareorg/radare2,0.69848,,12817,34.15,1098,182,219,1.99,5,3,13681,0,2009-02-05T21:08:46Z,C,GNU Lesser General Public License v3.0,19190,2024-01-30T10:08:24Z
+https://github.com/wesnoth/wesnoth,0.66719,,5321,22.48,374,248,1319,4.63,0,17,6479,0,2003-09-15T11:52:41Z,C++,GNU General Public License v2.0,5019,2024-01-30T17:50:01Z
+https://github.com/stan-dev/stan,0.71247,,802,10.77,135,150,7832,4.21,7,9,901,0,2011-09-30T01:57:32Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",2485,2024-01-30T20:52:18Z
+https://github.com/LMMS/lmms,0.70246,,2580,4.77,273,223,11334,5.09,3,3,3556,0,2005-09-22T13:49:52Z,C++,GNU General Public License v2.0,7333,2024-01-30T15:57:07Z
+https://github.com/espressif/arduino-esp32,0.74457,,7666,6.65,665,89,8519,3.66,5,11,8205,0,2016-10-06T06:04:20Z,C++,GNU Lesser General Public License v2.1,12029,2024-01-23T14:28:30Z
+https://github.com/supercollider/supercollider,0.66372,,2407,3.4,330,260,667,4.13,4,3,3130,0,2002-09-06T07:23:40Z,C++,GNU General Public License v3.0,5079,2024-01-15T17:17:06Z
+https://github.com/oracle/graaljs,0.76879,,683,56.4,4092,182,323,3.82,9,9,794,0,2009-02-16T00:02:00Z,C++,Universal Permissive License v1.0,1575,2024-01-29T20:21:45Z
+https://github.com/mfem/mfem,0.72773,,3250,39.38,197,164,2732,5.63,6,3,3513,0,2010-07-21T20:14:05Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1471,2024-01-28T03:37:23Z
+https://github.com/OpenSC/OpenSC,0.71918,,1729,10.42,280,271,2317,5.75,8,3,1828,0,2001-10-19T17:26:04Z,C,GNU Lesser General Public License v2.1,2333,2024-01-29T13:26:11Z
+https://github.com/ofiwg/libfabric,0.71634,,5834,28.33,242,124,669,2.4,9,9,5930,0,2013-11-07T20:18:59Z,C,Other,480,2024-01-28T21:50:06Z
+https://github.com/zeromq/libzmq,0.69685,,1665,1.79,628,176,8447,2.79,6,1,1941,0,2009-07-29T09:56:41Z,C++,Mozilla Public License 2.0,9108,2024-01-24T20:06:45Z
+https://github.com/google/googletest,0.69424,,2901,4.98,462,189,56963,2.16,2,1,3219,0,2008-07-03T22:38:12Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",32029,2024-01-30T21:55:07Z
+https://github.com/FreeCAD/FreeCAD,0.73038,,9657,77.83,638,149,6665,2.74,2,4,10947,0,2011-10-10T13:44:52Z,C++,Other,16597,2024-01-26T09:04:41Z
+https://github.com/fltk/fltk,0.71662,,818,17.19,60,308,20243,7.18,7,3,891,0,1998-10-06T18:21:25Z,C++,Other,1387,2024-01-29T13:01:41Z
+https://github.com/illumos/illumos-gate,0.6942,,58,10.19,1150,226,136568,1.48,4,0,63,0,2005-06-14T07:00:00Z,C,,1494,2024-01-20T12:34:22Z
+https://github.com/catchorg/Catch2,0.68714,,1396,3.83,390,161,3218,2.7,5,5,1752,0,2010-11-08T18:22:56Z,C++,Boost Software License 1.0,17694,2024-01-23T20:35:52Z
+https://github.com/OpenMS/OpenMS,0.66648,,4001,26.27,227,214,653,3.34,3,2,4627,0,2006-06-11T05:48:53Z,C++,Other,437,2024-01-30T15:05:53Z
+https://github.com/STEllAR-GROUP/hpx,0.69413,,3249,24.4,234,193,585,3.37,6,5,3371,0,2008-03-24T15:26:55Z,C++,Boost Software License 1.0,2336,2024-01-29T17:44:30Z
+https://github.com/urho3d/urho3d,0.61976,,1050,0,201,159,8381,3.25,2,1,1122,12,2011-01-02T23:33:36Z,C++,MIT License,4451,2023-01-25T17:29:02Z
+https://github.com/arendst/Tasmota,0.71728,,14591,27.63,533,85,4260,2.05,4,6,14601,0,2017-01-28T13:37:08Z,C,GNU General Public License v3.0,20972,2024-01-30T17:45:54Z
+https://github.com/gpac/gpac,0.66999,,1963,15.87,103,225,2056,2.58,8,1,1992,0,2005-07-13T14:37:22Z,C,GNU Lesser General Public License v2.1,2446,2024-01-30T13:29:01Z
+https://github.com/libreswan/libreswan,0.6756,,990,56.13,203,222,1278,2.54,4,3,1435,0,2005-10-13T06:59:20Z,C,Other,791,2024-01-30T19:19:32Z
+https://github.com/DPDK/dpdk,0.70319,,58,60.75,1193,132,3411,0.74,5,18,72,1,2013-03-07T09:57:42Z,C,,2901,2023-12-07T19:49:10Z
+https://github.com/ClusterLabs/pacemaker,0.70051,,1931,67.75,174,249,1466,2.48,5,8,1942,0,2003-08-08T18:19:47Z,C,Other,973,2024-01-30T21:41:22Z
+https://github.com/aws/s2n-tls,0.69075,6,3293,6.83,206,116,741,1.23,9,25,3758,0,2014-06-27T19:37:59Z,C,Apache License 2.0,4430,2024-01-27T07:47:10Z
+https://github.com/freebsd/pkg,0.6274,,538,5.25,222,163,3915,1.66,3,1,723,0,2010-09-07T17:52:43Z,C,Other,718,2024-01-25T16:30:44Z
+https://github.com/microsoft/AirSim,0.67856,,2937,0,242,84,5416,2.94,8,5,3586,18,2017-02-14T00:52:29Z,C++,Other,15580,2022-07-21T06:16:09Z
+https://github.com/simulationcraft/simc,0.65103,,4353,76.5,458,189,2858,0.65,0,12,4397,0,2008-06-25T17:01:39Z,C++,GNU General Public License v3.0,1302,2024-01-30T22:37:31Z
+https://github.com/mumble-voip/mumble,0.67976,,3020,4.08,364,224,1583,4.38,4,2,3479,0,2005-08-31T21:14:21Z,C++,Other,5813,2024-01-30T12:50:13Z
+https://github.com/raspberrypi/firmware,0.7075,,683,1.6,20,145,109105,9.1,7,7,1036,0,2012-02-27T23:06:53Z,C,,4984,2024-01-22T13:53:30Z
+https://github.com/KhronosGroup/glslang,0.71512,,2021,5.13,301,135,15936,2.31,5,9,2346,0,2012-12-12T21:15:54Z,C++,Other,2739,2024-01-29T06:37:13Z
+https://github.com/sonic-net/sonic-buildimage,0.67305,,14809,27.71,539,96,474,1.81,4,2,16565,0,2016-03-08T17:42:37Z,C,Other,639,2024-01-30T21:47:39Z
+https://github.com/Stellarium/stellarium,0.74352,,2229,75.52,212,262,1836,6.99,7,4,2581,0,2002-07-12T17:35:08Z,C++,GNU General Public License v2.0,6373,2024-01-30T13:48:51Z
+https://github.com/mawww/kakoune,0.68032,,2584,7.4,375,151,1008,2.7,6,2,3406,0,2011-09-02T16:51:20Z,C++,The Unlicense,9398,2024-01-28T17:23:08Z
+https://github.com/mozilla/DeepSpeech,0.64833,,3617,0,163,96,373,3.26,8,13,3752,26,2016-02-22T11:08:37Z,C++,Mozilla Public License 2.0,23768,2021-11-17T17:52:52Z
+https://github.com/yugabyte/yugabyte-db,0.70256,28,15207,91.69,520,97,1016,1.19,2,51,20804,0,2016-02-05T04:31:05Z,C,Other,8326,2024-01-30T21:23:19Z
+https://github.com/performancecopilot/pcp,0.65546,,1434,20.04,229,202,2117,1.41,3,4,1543,0,2007-06-13T02:59:47Z,C,Other,915,2024-01-27T10:35:12Z
+https://github.com/musescore/MuseScore,0.67477,,15422,100.48,394,142,878,1.69,1,8,17797,0,2012-05-24T11:24:03Z,C++,Other,11150,2024-01-30T14:04:43Z
+https://github.com/google/benchmark,0.72035,,1095,2.83,297,123,74126,3.96,4,4,1251,0,2013-12-12T00:10:48Z,C++,Apache License 2.0,8160,2024-01-30T12:44:36Z
+https://github.com/naev/naev,0.7132,,1657,81.33,201,205,2328,2.23,5,11,1790,0,2007-03-10T19:20:18Z,C,Other,805,2024-01-30T15:39:15Z
+https://github.com/openframeworks/openFrameworks,0.73634,,1700,7.46,435,192,21786,2.71,7,4,2207,0,2008-04-13T10:28:22Z,C++,Other,9685,2024-01-30T18:56:31Z
+https://github.com/ethereum-mining/ethminer,0.66494,,1468,0,183,123,5254,3.79,5,7,1794,23,2013-12-23T15:42:44Z,C++,GNU General Public License v3.0,5897,2022-02-20T16:28:02Z
+https://github.com/PX4/PX4-Autopilot,0.72972,,12579,29,812,147,3248,2.1,5,3,14301,1,2011-12-19T19:24:09Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",7286,2023-12-07T15:08:26Z
+https://github.com/libMesh/libmesh,0.69747,,1932,23.15,127,256,1903,3.61,8,3,2140,0,2003-01-09T15:12:31Z,C,GNU Lesser General Public License v2.1,600,2024-01-29T14:44:37Z
+https://github.com/microsoft/LightGBM,0.68426,,5919,4.77,295,91,885,3.75,6,4,6266,0,2016-08-05T05:45:50Z,C++,MIT License,15822,2024-01-25T05:19:42Z
+https://github.com/calamares/calamares,0.68191,,1371,10.29,132,117,875,4.24,7,7,1501,0,2014-06-03T20:03:07Z,C++,,1262,2024-01-25T20:04:50Z
+https://github.com/openscad/openscad,0.65195,,2395,5.12,246,177,3248,3.74,2,1,3310,0,2009-06-20T09:41:40Z,C++,Other,6214,2024-01-26T20:29:30Z
+https://github.com/mysql/mysql-server,0.73833,,310,68.62,648,286,3503,3.37,4,32,312,2,2000-07-31T19:10:05Z,C++,Other,9925,2023-11-20T11:31:51Z
+https://github.com/HandBrake/HandBrake,0.68871,,4133,11.77,134,219,2117,4.35,5,3,4403,0,2006-01-14T12:46:58Z,C,Other,14861,2024-01-27T20:59:59Z
+https://github.com/syslog-ng/syslog-ng,0.69974,,2888,35.06,192,204,2033,5.98,2,8,3076,0,2007-04-13T22:21:06Z,C,Other,1980,2024-01-30T17:55:11Z
+https://github.com/domoticz/domoticz,0.68291,,3800,16.56,460,112,7012,6.28,0,6,3876,0,2014-11-02T09:49:15Z,C++,GNU General Public License v3.0,3389,2024-01-30T14:51:36Z
+https://github.com/openucx/ucx,0.69919,,6629,18.83,146,113,372,4.12,6,18,7279,0,2014-10-17T22:17:24Z,C,Other,984,2024-01-29T18:02:19Z
+https://github.com/i3/i3,0.67289,,1866,0.85,353,182,2493,3.85,4,5,2183,0,2009-02-06T03:44:56Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",8838,2024-01-30T07:53:32Z
+https://github.com/pmodels/mpich,0.69528,,4062,20.94,165,197,451,4.83,6,6,4279,0,2007-11-02T22:50:19Z,C,Other,491,2024-01-29T02:43:51Z
+https://github.com/MythTV/mythtv,0.65409,,557,12.71,382,264,1295,3.93,2,3,702,0,2002-05-03T19:14:12Z,C++,GNU General Public License v2.0,682,2024-01-25T21:22:01Z
+https://github.com/OpenSIPS/opensips,0.67946,,1915,11.75,181,226,481,4.7,5,8,2145,0,2005-06-13T16:47:24Z,C,Other,1166,2024-01-30T10:03:59Z
+https://github.com/topjohnwu/Magisk,0.68103,,7133,11.63,302,128,2621,3.14,2,5,7162,0,2013-06-28T01:42:09Z,C++,GNU General Public License v3.0,41864,2024-01-30T16:21:37Z
+https://github.com/azerothcore/azerothcore-wotlk,0.71333,,15480,46.48,393,92,8635,1.74,4,2,17194,0,2016-06-26T08:39:44Z,C++,GNU Affero General Public License v3.0,5153,2024-01-30T09:27:24Z
+https://github.com/OpenRCT2/OpenRCT2,0.69073,,12789,22.06,610,119,1158,2,3,4,14067,0,2014-04-01T23:31:55Z,C++,GNU General Public License v3.0,12631,2024-01-30T22:44:58Z
+https://github.com/kokkos/kokkos,0.71761,,5111,19.46,198,107,3297,3.78,6,5,5594,2,2015-04-08T21:55:55Z,C++,Other,1648,2023-11-20T21:26:46Z
+https://github.com/dresden-elektronik/deconz-rest-plugin,0.65741,,7072,9.65,174,128,965,4.14,1,15,7253,0,2013-07-19T11:41:54Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1866,2024-01-22T13:07:08Z
+https://github.com/djcb/mu,0.68761,,1552,10.48,249,172,438,3.57,7,10,1579,0,2009-11-25T20:55:06Z,C++,GNU General Public License v3.0,1557,2024-01-23T17:15:30Z
+https://github.com/Mudlet/Mudlet,0.65361,,5083,6.65,143,182,314,3.55,6,2,6012,0,2009-01-24T01:35:41Z,C++,GNU General Public License v2.0,678,2024-01-30T18:02:02Z
+https://github.com/facebook/fbthrift,0.80481,36,280,57.75,1318,128,185718,2.09,5,35,325,0,2013-07-02T18:15:51Z,C++,Apache License 2.0,2512,2024-01-30T22:27:23Z
+https://github.com/percona/percona-xtradb-cluster,0.67418,,1258,40.58,977,286,68,0.7,5,43,1269,0,2000-07-31T19:10:05Z,C++,Other,323,2024-01-24T07:08:28Z
+https://github.com/openenclave/openenclave,0.65474,,4447,4.1,145,78,293,5.19,5,6,4863,0,2017-08-29T20:31:38Z,C,MIT License,974,2024-01-25T18:45:47Z
+https://github.com/universal-ctags/ctags,0.67681,,2141,11.69,223,270,1221,3.75,6,1,2353,0,2001-11-02T04:53:43Z,C,GNU General Public License v2.0,6143,2024-01-30T15:53:23Z
+https://github.com/FreeRADIUS/freeradius-server,0.6811,,3132,57.56,253,297,953,1.25,6,2,3176,0,1999-08-16T17:55:05Z,C,GNU General Public License v2.0,1972,2024-01-30T22:48:12Z
+https://github.com/confluentinc/librdkafka,0.61881,,2355,1.67,274,138,62,2.93,5,4,2714,0,2012-09-19T10:14:00Z,C,Other,7158,2024-01-23T15:05:40Z
+https://github.com/krb5/krb5,0.6773,,589,1.08,156,441,5041,3.83,7,8,603,0,1987-10-23T09:40:29Z,C,,484,2024-01-24T22:33:18Z
+https://github.com/hpcc-systems/HPCC-Platform,0.69797,,7831,56.13,113,152,146,3.71,6,342,7889,0,2011-07-11T14:29:51Z,C++,Other,546,2024-01-26T10:29:16Z
+https://github.com/alibaba/cloud-kernel,0.58847,,13,0.02,5000,228,3,2.52,7,7,25,10,2005-04-16T22:20:36Z,C,Other,388,2023-03-21T09:17:34Z
+https://github.com/jemalloc/jemalloc,0.70154,,1313,2.31,172,177,18255,2.62,9,3,1550,0,2009-06-22T19:08:42Z,C,Other,8830,2024-01-24T00:21:04Z
+https://github.com/wireshark/wireshark,0.71231,,79,71.17,1503,308,7717,1.33,2,38,79,0,1998-09-16T02:39:15Z,C,GNU General Public License v2.0,6393,2024-01-30T19:13:52Z
+https://github.com/opentx/opentx,0.62884,,3622,2.29,169,150,1971,3.45,2,1,3891,0,2011-09-07T09:17:47Z,C++,GNU General Public License v2.0,2005,2024-01-29T09:25:20Z
+https://github.com/facebook/watchman,0.75539,82581,458,20.38,341,135,129893,3.08,3,49,631,0,2012-11-29T23:35:52Z,C++,MIT License,12112,2024-01-30T17:32:17Z
+https://github.com/UPBGE/upbge,0.72032,,1054,222.88,1080,259,757,3.74,3,2,1166,0,2002-10-12T11:37:38Z,C++,Other,1278,2024-01-29T19:20:48Z
+https://github.com/apple/foundationdb,0.72829,66,10189,43.02,283,81,5158,2.71,3,87,11072,0,2017-05-25T20:48:44Z,C++,Apache License 2.0,13618,2024-01-30T23:15:18Z
+https://github.com/ValveSoftware/wine,0.69902,,171,40.96,2253,372,171,4.7,2,106,207,0,1993-06-29T16:33:12Z,C,Other,1053,2024-01-19T20:32:00Z
+https://github.com/gabime/spdlog,0.66848,,2220,2.94,392,121,3182,3.44,3,2,2273,0,2014-01-25T09:09:04Z,C++,Other,21366,2024-01-16T04:39:45Z
+https://github.com/ohler55/oj,0.71538,,449,1.42,121,145,13922,4.59,10,20,460,0,2012-02-17T09:30:32Z,C,MIT License,3070,2024-01-08T07:14:08Z
+https://github.com/lede-project/source,0.69364,,73,57.31,1373,241,8452,1.47,3,3,73,0,2004-03-28T00:16:07Z,C,Other,1649,2024-01-28T15:10:36Z
+https://github.com/kdave/btrfs-progs,0.7269,,430,13.21,346,207,24031,3.2,4,14,665,0,2007-01-26T20:51:26Z,C,GNU General Public License v2.0,494,2024-01-22T19:00:25Z
+https://github.com/robotology/yarp,0.66096,,1625,8.88,103,217,679,2.37,10,3,1842,0,2006-03-10T16:19:16Z,C++,Other,486,2024-01-29T13:54:34Z
+https://github.com/lvgl/lvgl,0.72803,,5321,24.52,424,93,1606,5.54,4,8,5420,0,2016-06-08T04:14:34Z,C,MIT License,14276,2024-01-30T09:33:10Z
+https://github.com/tpm2-software/tpm2-tools,0.64446,,2221,1.46,147,102,1547,1.93,7,3,2517,0,2015-08-21T01:07:28Z,C,,646,2024-01-25T17:46:24Z
+https://github.com/defold/defold,0.68299,,5874,16.37,146,181,784,1.05,6,37,6901,0,2009-03-08T14:04:23Z,C++,Other,3494,2024-01-30T10:37:51Z
+https://github.com/ApolloAuto/apollo,0.62706,,11747,1.19,409,80,478,1.2,6,1,12524,0,2017-07-04T19:03:31Z,C++,Apache License 2.0,23985,2024-01-26T03:04:44Z
+https://github.com/ElementsProject/lightning,0.68058,,5415,34.83,253,105,627,3.17,2,13,6012,0,2015-05-26T04:38:38Z,C,Other,2710,2024-01-29T18:23:12Z
+https://github.com/cyrusimap/cyrus-imapd,0.66255,,2084,24.08,144,371,216,1.85,6,13,2686,0,1993-07-12T18:03:01Z,C,Other,500,2024-01-29T20:45:35Z
+https://github.com/rusefi/rusefi,0.69674,,4870,102.46,65,119,2610,1.92,3,342,5718,0,2014-04-22T21:51:00Z,C,,666,2024-01-30T22:39:50Z
+https://github.com/notepad-plus-plus/notepad-plus-plus,0.69222,,9268,11.29,397,200,2257,2.62,2,13,11446,0,2007-08-07T00:55:50Z,C++,Other,20937,2024-01-28T12:47:49Z
+https://github.com/apache/mesos,0.6695,,228,0.75,402,155,2660,1.66,8,20,239,18,2011-04-27T06:59:39Z,C++,Apache License 2.0,5161,2022-08-01T19:07:16Z
+https://github.com/contiki-ng/contiki-ng,0.65316,,2110,13,327,214,1020,1.85,4,1,2382,0,2006-06-17T22:41:10Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1209,2024-01-26T15:05:48Z
+https://github.com/wolfSSL/wolfssl,0.70004,,5731,48.79,157,158,12384,1.36,3,5,5858,0,2011-02-05T19:14:47Z,C,GNU General Public License v2.0,2106,2024-01-30T13:46:57Z
+https://github.com/coreboot/coreboot,0.67173,,20,83.02,1236,253,25894,1.1,2,1,21,0,2003-04-15T00:44:05Z,C,GNU General Public License v2.0,2011,2024-01-26T07:06:02Z
+https://github.com/facebook/mysql-5.6,0.73256,,519,43.58,813,286,7041,2.82,4,7,658,0,2000-07-31T19:10:05Z,C++,Other,2423,2024-01-30T18:18:29Z
+https://github.com/nfs-ganesha/nfs-ganesha,0.69147,,734,4.15,207,180,1965,5.4,6,9,879,1,2009-03-23T07:49:59Z,C,,1366,2023-12-21T21:38:32Z
+https://github.com/GNOME/gnome-shell,0.72107,,11,21.17,871,185,46340,1.45,6,21,11,0,2008-10-31T04:22:44Z,C,GNU General Public License v2.0,751,2024-01-29T12:39:57Z
+https://github.com/groonga/groonga,0.68308,,803,16.44,77,183,2101,2.27,9,12,911,0,2009-01-14T09:30:34Z,C,GNU Lesser General Public License v2.1,765,2024-01-30T02:58:39Z
+https://github.com/aws/amazon-freertos,0.63532,,3513,0,161,75,1977,2.03,6,5,3533,14,2017-11-09T21:53:47Z,C,MIT License,2535,2022-11-18T02:53:06Z
+https://github.com/ZDoom/gzdoom,0.60852,,1895,13.58,217,218,125,2.11,2,4,1978,0,2006-02-24T04:48:15Z,C++,GNU General Public License v3.0,2135,2024-01-30T19:32:44Z
+https://github.com/jtv/libpqxx,0.62169,,721,1.27,61,284,976,6.69,4,3,730,0,2000-09-22T19:14:09Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",894,2024-01-22T01:16:22Z
+https://github.com/supertuxkart/stk-code,0.64814,,1771,1.77,238,203,12306,2.83,2,1,2130,0,2007-05-27T16:01:53Z,C++,Other,4188,2024-01-25T02:51:10Z
+https://github.com/Oneflow-Inc/oneflow,0.67216,,9366,6.88,168,84,2788,2.74,4,5,9834,0,2017-02-11T06:09:53Z,C++,Apache License 2.0,5579,2024-01-29T14:35:59Z
+https://github.com/cmangos/mangos-tbc,0.65964,,437,10.21,614,186,6865,2.42,2,1,446,0,2008-10-13T20:06:16Z,C++,GNU General Public License v2.0,423,2024-01-30T18:48:19Z
+https://github.com/rism-digital/verovio,0.6874,1,2712,29.23,73,122,1426,2.06,10,5,2866,0,2014-01-09T09:44:10Z,C++,GNU Lesser General Public License v3.0,604,2024-01-29T13:23:29Z
+https://github.com/OpenLightingProject/ola,0.66079,,382,6.96,211,224,3222,3.92,5,1,626,3,2005-08-25T23:17:50Z,C++,Other,589,2023-10-29T06:31:37Z
+https://github.com/stella-emu/stella,0.61706,,681,3.35,46,269,3002,5.7,3,1,760,0,2001-12-11T22:11:03Z,C,GNU General Public License v2.0,543,2024-01-30T16:27:53Z
+https://github.com/istio/proxy,0.72577,,3978,9.75,132,87,12935,2.13,7,49,3980,0,2016-12-01T18:51:04Z,C++,Apache License 2.0,759,2024-01-30T01:39:28Z
+https://github.com/gphoto/libgphoto2,0.64543,,460,2.56,192,287,1913,4.31,5,1,782,0,2000-06-16T19:48:55Z,C,GNU Lesser General Public License v2.1,932,2024-01-30T16:51:35Z
+https://github.com/swaywm/sway,0.69213,,5658,4.15,517,103,5030,3.62,3,2,6572,1,2015-08-05T01:02:46Z,C,MIT License,13371,2023-12-12T21:54:31Z
+https://github.com/RfidResearchGroup/proxmark3,0.71532,,2188,36.13,346,180,3402,3.65,4,4,2267,0,2009-04-09T06:16:17Z,C,GNU General Public License v3.0,3248,2024-01-30T10:02:10Z
+https://github.com/intel/compute-runtime,0.71324,,587,51.98,164,77,13179,4.69,3,13,660,0,2017-09-29T17:26:43Z,C++,MIT License,1022,2024-01-30T07:12:27Z
+https://github.com/rhomobile/rhodes,0.63341,,184,2.42,167,187,5186,0.64,4,33,195,0,2008-09-18T21:55:16Z,C,MIT License,1045,2024-01-02T22:31:57Z
+https://github.com/eclipse/omr,0.66337,,4509,11.98,230,96,1432,4.13,4,0,5169,0,2016-03-03T19:34:17Z,C++,Other,920,2024-01-30T23:12:54Z
+https://github.com/pioneerspacesim/pioneer,0.65989,,1476,10.15,173,189,1750,4.13,4,1,1670,0,2008-06-24T10:17:31Z,C++,,1501,2024-01-29T22:05:10Z
+https://github.com/tesseract-ocr/tesseract,0.67549,,2809,2.56,206,205,4380,4.52,3,4,3215,0,2007-03-06T20:07:27Z,C++,Apache License 2.0,56212,2024-01-18T07:48:04Z
+https://github.com/sqlitebrowser/sqlitebrowser,0.67449,,1742,3.56,179,249,818,6.98,6,2,2337,0,2003-08-14T21:11:44Z,C++,Other,19534,2024-01-14T22:35:31Z
+https://github.com/esphome/esphome,0.7759,,5561,32.67,801,70,6573,2.7,7,114,5759,0,2018-04-06T23:23:03Z,C++,Other,7085,2024-01-30T04:16:32Z
+https://github.com/Icinga/icinga2,0.66907,,3966,5.9,297,144,466,3.06,4,7,4419,0,2012-03-28T11:24:49Z,C++,GNU General Public License v2.0,1920,2024-01-22T15:30:18Z
+https://github.com/citusdata/citus,0.6809,,4943,8.85,103,97,3844,1.95,5,11,5748,0,2016-02-01T21:58:39Z,C,GNU Affero General Public License v3.0,9396,2024-01-30T15:12:48Z
+https://github.com/qbittorrent/qBittorrent,0.65741,,15050,9.29,357,211,1766,1.68,1,13,17889,0,2006-09-30T16:02:39Z,C++,Other,23912,2024-01-27T14:04:39Z
+https://github.com/gwaldron/osgearth,0.65464,,1070,8.62,160,187,5557,1.87,4,2,1096,0,2008-09-03T16:52:26Z,C++,Other,1368,2024-01-29T19:38:43Z
+https://github.com/linux-nvme/nvme-cli,0.71401,,1900,10.69,287,111,7772,2.35,7,5,1923,0,2014-11-26T20:44:30Z,C,GNU General Public License v2.0,1322,2024-01-23T09:58:14Z
+https://github.com/signalwire/freeswitch,0.68358,,1497,4.38,487,124,1506,2.56,6,3,2366,0,2013-10-29T16:17:55Z,C,Other,2821,2024-01-29T16:05:45Z
+https://github.com/unicode-org/icu,0.72088,2639,2710,8.54,217,297,8243,3.1,4,25,2786,0,1999-08-16T21:50:52Z,C++,Other,2390,2024-01-15T01:30:07Z
+https://github.com/openbsd/src,0.66553,,38,132.71,393,344,12670,1.05,5,0,38,0,1995-10-18T08:37:01Z,C,,2968,2024-01-30T17:43:39Z
+https://github.com/OpenOrienteering/mapper,0.6384,,859,0.31,169,150,2285,3.28,4,5,1180,0,2011-10-04T15:56:33Z,C++,GNU General Public License v3.0,370,2024-01-20T08:48:32Z
+https://github.com/Genymobile/scrcpy,0.72739,,2884,8.44,133,75,27103,4.84,6,6,4565,1,2017-11-21T18:00:27Z,C,Apache License 2.0,97492,2023-12-13T11:50:06Z
+https://github.com/paparazzi/paparazzi,0.66542,,1075,4.81,165,231,6766,1.93,6,2,1115,0,2005-01-25T10:57:55Z,C,GNU General Public License v2.0,1465,2024-01-29T15:19:05Z
+https://github.com/WireGuard/wireguard-linux,0.67317,,1,737,5000,228,917,0,10,0,1,5,2005-04-16T22:20:36Z,C,Other,1038,2023-08-07T19:26:58Z
+https://github.com/CasparCG/server,0.66213,,627,2.58,62,162,11009,3.85,7,2,834,0,2010-09-14T20:33:19Z,C++,GNU General Public License v3.0,845,2024-01-23T14:55:12Z
+https://github.com/duckdb/duckdb,0.73641,235,8528,277.6,356,68,1612,2.64,5,7,8784,0,2018-06-26T15:04:45Z,C++,MIT License,14158,2024-01-30T15:22:30Z
+https://github.com/percona/percona-xtrabackup,0.67209,,1076,53.1,747,286,87,1.02,4,37,1081,1,2000-07-31T19:10:05Z,C++,Other,1154,2023-12-22T11:32:33Z
+https://github.com/subsurface/subsurface,0.66566,,2834,6.69,186,151,269,3.57,6,7,3043,0,2011-08-28T23:18:53Z,C++,GNU General Public License v2.0,2522,2024-01-23T11:41:07Z
+https://github.com/collectd/collectd,0.70987,,1540,3.54,681,658,6591,2.46,7,2,2126,0,1970-01-01T00:00:00Z,C,Other,2934,2024-01-29T12:27:31Z
+https://github.com/openvinotoolkit/openvino,0.69772,,22117,90.87,508,64,932,1.34,3,14,22452,0,2018-10-15T10:54:40Z,C++,Apache License 2.0,5342,2024-01-30T19:11:39Z
+https://github.com/bkaradzic/bgfx,0.65245,,1466,5,271,143,2553,2.06,6,0,1692,0,2012-04-04T03:30:07Z,C++,"BSD 2-Clause ""Simplified"" License",13959,2024-01-27T04:18:24Z
+https://github.com/gazebosim/gazebo-classic,0.63034,,621,0.6,199,207,11,14.89,5,13,1050,2,2007-01-24T01:25:04Z,C++,Other,1108,2023-11-08T17:09:46Z
+https://github.com/open-mpi/hwloc,0.6453,,314,7,48,182,5468,3.43,8,1,408,0,2009-02-03T13:53:14Z,C,Other,503,2024-01-18T14:49:00Z
+https://github.com/tcltk/tcl,0.62909,,15,43.92,90,314,1316,1.94,7,7,16,0,1998-03-26T14:45:58Z,C,Other,595,2024-01-29T21:12:29Z
+https://github.com/vgteam/vg,0.66526,,2302,8.17,77,113,920,2.13,8,10,2875,0,2014-10-02T16:24:12Z,C++,Other,1025,2024-01-15T19:11:39Z
+https://github.com/Snapchat/KeyDB,0.62515,,596,4.12,623,180,23,2.87,8,2,757,2,2009-03-22T09:30:00Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",8584,2023-11-13T20:17:00Z
+https://github.com/swig/swig,0.73444,,1482,13.37,340,298,25218,3.57,5,4,1913,0,1999-08-03T22:39:23Z,C++,Other,5393,2024-01-29T08:53:55Z
+https://github.com/keepassxreboot/keepassxc,0.68169,,7696,2.44,405,164,918,3.6,6,2,8344,0,2010-08-07T13:10:44Z,C++,Other,18077,2024-01-27T13:49:28Z
+https://github.com/Ardour/ardour,0.66026,,474,35.35,227,227,1380,2.17,3,7,494,0,2005-05-13T20:47:18Z,C++,Other,3481,2024-01-30T22:57:55Z
+https://github.com/fontforge/fontforge,0.64921,1,1887,0.37,205,277,2397,3.99,5,1,2485,0,2001-04-24T15:48:37Z,C,Other,5858,2024-01-29T00:38:39Z
+https://github.com/espruino/Espruino,0.66472,,1073,10.81,149,125,1250,3.55,4,7,1191,0,2013-09-26T13:29:36Z,C,Other,2670,2024-01-30T10:06:22Z
+https://github.com/virtio-win/kvm-guest-drivers-windows,0.67589,,704,3.25,74,169,1809,4.84,8,13,796,0,2010-02-14T15:24:39Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1727,2024-01-26T18:39:28Z
+https://github.com/eclipse/paho.mqtt.c,0.64527,,960,0.9,103,144,2842,3.52,8,1,1098,0,2012-03-08T22:25:21Z,C,Other,1785,2024-01-03T15:25:47Z
+https://github.com/newsboat/newsboat,0.66878,,2276,10.06,236,209,1270,3.04,4,3,2619,0,2006-11-09T13:23:16Z,C++,MIT License,2713,2024-01-27T12:14:11Z
+https://github.com/joncampbell123/dosbox-x,0.61871,,2751,18.6,149,128,877,5.16,0,4,4317,0,2013-07-08T03:39:49Z,C,GNU General Public License v2.0,2339,2024-01-30T17:18:47Z
+https://github.com/clementine-player/Clementine,0.64057,,881,0.77,261,171,367,2.01,5,19,1742,0,2009-12-24T19:16:07Z,C++,GNU General Public License v3.0,3585,2024-01-03T02:31:14Z
+https://github.com/google/or-tools,0.68584,101,3137,17.63,174,162,2844,3.29,4,3,3190,0,2010-09-15T12:23:20Z,C++,Apache License 2.0,10138,2024-01-19T21:37:12Z
+https://github.com/iNavFlight/inav,0.68095,,6164,26.67,430,145,679,4.25,1,10,6507,0,2012-02-16T09:39:58Z,C,GNU General Public License v3.0,2746,2024-01-22T15:41:10Z
+https://github.com/reactos/reactos,0.68887,,5918,37.15,348,341,632,2.21,3,9,6104,0,1996-01-23T01:02:17Z,C,GNU General Public License v2.0,13697,2024-01-30T06:38:53Z
+https://github.com/PDAL/PDAL,0.6966,,2477,4.44,178,158,2371,2.01,10,9,2575,0,2011-02-03T23:06:15Z,C++,Other,1032,2024-01-30T22:13:36Z
+https://github.com/yuzu-emu/yuzu,0.65827,,10313,65.42,384,126,16893,2.23,0,0,12076,0,2013-08-30T03:18:16Z,C++,GNU General Public License v3.0,33220,2024-01-30T19:29:41Z
+https://github.com/StanfordLegion/legion,0.69462,,811,21.33,99,136,3472,6.27,5,4,1314,1,2012-11-17T00:43:58Z,C++,Apache License 2.0,628,2023-12-12T23:51:28Z
+https://github.com/strace/strace,0.68765,,187,5.4,177,303,28091,2.95,5,6,268,0,1999-02-19T00:21:36Z,C,Other,1978,2024-01-29T10:00:00Z
+https://github.com/asterisk/asterisk,0.68794,,452,5.48,341,296,4200,3.05,3,38,541,0,1999-10-08T04:46:33Z,C,Other,1791,2024-01-29T13:51:34Z
+https://github.com/valhalla/valhalla,0.65115,,2748,3.25,206,112,1423,2.89,5,1,3309,0,2014-11-18T20:08:25Z,C++,Other,4041,2024-01-29T16:40:58Z
+https://github.com/igraph/igraph,0.65346,,1373,9.71,84,231,551,5.3,5,4,1604,0,2005-01-25T11:41:47Z,C,GNU General Public License v2.0,1640,2024-01-30T10:50:13Z
+https://github.com/stlink-org/stlink,0.63503,,1287,2.04,274,158,601,3.05,7,0,1289,0,2011-01-14T08:54:52Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",4044,2024-01-21T13:43:22Z
+https://github.com/DOCGroup/ACE_TAO,0.64014,,1464,5.23,278,332,322,1.02,7,5,1605,0,1996-10-21T21:41:34Z,C++,,657,2024-01-29T18:49:50Z
+https://github.com/rpm-software-management/rpm,0.71481,,2234,9.62,294,343,5729,3.94,6,3,2467,0,1995-11-27T22:31:21Z,C,Other,455,2024-01-24T10:44:34Z
+https://github.com/davisking/dlib,0.6412,2,1858,1.83,191,191,608,4.78,5,1,1899,0,2008-05-02T14:15:48Z,C++,Boost Software License 1.0,12591,2024-01-28T15:04:12Z
+https://github.com/microsoft/react-native-windows,0.67605,106,10487,17.77,204,98,1745,1.79,2,124,11043,0,2015-12-15T00:16:54Z,C++,Other,15819,2024-01-30T23:09:08Z
+https://github.com/phusion/passenger,0.68224,,444,2.21,139,194,4922,4.23,11,3,580,0,2008-01-25T18:40:17Z,C++,MIT License,4958,2024-01-25T15:39:58Z
+https://github.com/cmangos/mangos-wotlk,0.64444,,234,12.38,794,180,9546,0.83,2,1,251,0,2009-03-26T14:21:35Z,C++,GNU General Public License v2.0,445,2024-01-27T14:14:07Z
+https://github.com/xoseperez/espurna,0.62515,,1843,1.29,165,93,901,4.15,4,1,2149,0,2016-05-20T12:54:44Z,C++,GNU General Public License v3.0,2943,2024-01-20T19:23:05Z
+https://github.com/bbidulock/icewm,0.63517,,503,4.37,185,266,196,4.45,4,11,533,0,2002-03-17T09:12:22Z,C++,Other,551,2024-01-24T21:34:48Z
+https://github.com/intel/media-driver,0.70929,,1540,17.21,365,75,18376,3.62,3,4,1704,0,2017-11-17T22:54:05Z,C,Other,890,2024-01-30T13:45:23Z
+https://github.com/NREL/OpenStudio,0.68753,,2332,24.56,76,129,6495,2.15,5,7,2536,0,2013-06-19T22:02:49Z,C++,Other,461,2024-01-17T15:34:06Z
+https://github.com/citra-emu/citra,0.68913,,3556,11.58,295,126,19490,2.79,3,0,4149,0,2013-08-30T03:18:16Z,C++,GNU General Public License v2.0,9942,2024-01-29T20:24:41Z
+https://github.com/allinurl/goaccess,0.64086,,1339,3.96,164,165,231,4.1,6,3,1680,0,2010-07-09T17:28:13Z,C,MIT License,17155,2024-01-30T00:43:10Z
+https://github.com/panda-re/panda,0.66641,,1122,3.83,1452,255,271,2.02,6,2,1196,0,2003-02-18T22:55:36Z,C,Other,2368,2024-01-30T21:53:40Z
+https://github.com/spring/spring,0.6241,,275,0.19,170,228,15205,1.6,3,5,276,1,2005-05-04T00:49:49Z,C++,Other,3397,2023-12-27T17:03:23Z
+https://github.com/tensorflow/io,0.65206,1999,1650,1.42,107,73,4888,2.63,6,5,1921,0,2018-01-26T20:45:35Z,C++,Apache License 2.0,685,2024-01-23T21:45:38Z
+https://github.com/daos-stack/daos,0.6274,3,13294,20.56,111,103,55,2.19,4,10,13692,0,2015-07-20T17:55:12Z,C,Other,661,2024-01-30T21:02:14Z
+https://github.com/XRPLF/rippled,0.64649,,2258,5.04,141,149,39,3.69,7,20,2619,0,2011-10-14T18:39:06Z,C++,ISC License,4402,2024-01-29T16:36:10Z
+https://github.com/OpenTTD/OpenTTD,0.67243,,11535,34.33,195,237,1535,2.55,2,5,11773,0,2004-08-09T17:04:08Z,C++,Other,5576,2024-01-30T23:33:21Z
+https://github.com/hluk/CopyQ,0.64731,,1288,2.71,285,173,977,3.43,4,2,1633,0,2009-10-21T13:35:38Z,C++,GNU General Public License v3.0,7438,2024-01-21T07:50:33Z
+https://github.com/SWI-Prolog/swipl-devel,0.63132,,882,18.17,157,385,86,2.74,3,22,976,0,1992-05-26T11:52:28Z,C,Other,864,2024-01-28T23:50:54Z
+https://github.com/HerculesWS/Hercules,0.63206,,1351,9.94,248,234,12787,1.64,0,9,1585,1,2004-11-04T23:25:09Z,C,GNU General Public License v3.0,858,2023-12-31T20:21:15Z
+https://github.com/postgres/postgres,0.66453,,149,42.9,55,335,10959,1.07,5,21,150,0,1996-07-09T06:22:35Z,C,Other,14003,2024-01-30T22:09:44Z
+https://github.com/iovisor/bpftrace,0.70052,,2542,7.73,215,86,3403,3.01,7,7,2758,0,2016-12-11T15:34:56Z,C++,Apache License 2.0,7632,2024-01-30T15:10:49Z
+https://github.com/weidai11/cryptopp,0.62302,,665,1.75,107,259,1774,2.77,5,2,703,2,2002-10-04T17:31:41Z,C++,Other,4405,2023-11-20T07:41:32Z
+https://github.com/xemu-project/xemu,0.65137,,947,4.9,2561,255,6,2.38,4,35,1566,1,2003-02-18T22:55:36Z,C,Other,2206,2023-12-18T06:04:14Z
+https://github.com/strongswan/strongswan,0.67613,,404,7.17,130,222,4879,3.36,7,4,484,1,2005-11-03T07:18:16Z,C,Other,1989,2023-12-12T17:08:05Z
+https://github.com/pytorch/glow,0.66064,,5736,1.27,353,80,9920,2.48,4,0,6141,0,2017-07-01T01:15:02Z,C++,Apache License 2.0,3091,2024-01-25T15:14:25Z
+https://github.com/GenericMappingTools/gmt,0.65506,,7974,19.31,70,281,532,2.61,8,1,8300,0,2000-12-28T01:23:45Z,C,Other,784,2024-01-30T16:59:30Z
+https://github.com/dolphin-emu/dolphin,0.63379,,8048,49.15,661,189,1784,2.22,0,0,8301,0,2008-07-12T08:33:41Z,C++,Other,11385,2024-01-30T18:08:03Z
+https://github.com/freebsd/freebsd-src,0.80066,,654,159.12,2074,372,11078,2.82,9,4,779,0,1993-06-12T14:49:13Z,C,Other,7322,2024-01-30T22:52:29Z
+https://github.com/Cyan4973/xxHash,0.666,,774,3.9,96,143,14088,4.24,5,1,799,0,2012-04-12T21:20:40Z,C,Other,8102,2024-01-30T03:54:00Z
+https://github.com/GStreamer/gstreamer,0.76668,,14,51.42,2399,292,99737,0.79,7,62,14,0,2000-01-30T09:03:00Z,C,Other,1985,2024-01-30T14:18:06Z
+https://github.com/sysown/proxysql,0.66664,,2420,18.38,135,111,749,2.28,5,7,3308,0,2014-12-01T01:58:26Z,C++,GNU General Public License v3.0,5660,2024-01-25T09:17:54Z
+https://github.com/htop-dev/htop,0.65527,,1146,4.88,198,218,1035,3.07,6,2,1387,0,2006-03-04T18:16:49Z,C,GNU General Public License v2.0,5666,2024-01-27T22:22:31Z
+https://github.com/ponylang/ponyc,0.67601,,1907,4.69,218,136,1014,3.08,5,11,2176,0,2012-11-09T11:30:22Z,C,"BSD 2-Clause ""Simplified"" License",5553,2024-01-30T21:49:54Z
+https://github.com/carla-simulator/carla,0.61373,,5114,2.94,170,84,933,3.11,2,1,6131,2,2017-03-03T11:24:26Z,C++,Other,10131,2023-11-10T11:25:48Z
+https://github.com/KDE/kdenlive,0.6434,,16,38.88,169,195,1528,1.06,8,12,16,0,2007-12-29T20:13:27Z,C++,GNU General Public License v3.0,2626,2024-01-30T08:18:51Z
+https://github.com/DFHack/dfhack,0.69875,,2439,56.02,233,175,672,1.84,4,29,3138,0,2009-08-30T12:13:10Z,C++,Other,1791,2024-01-30T20:29:34Z
+https://github.com/DynamoRIO/dynamorio,0.6704,,3140,8.9,136,182,588,2.47,4,52,4027,0,2009-02-10T21:30:46Z,C,Other,2462,2024-01-30T18:23:19Z
+https://github.com/neutrinolabs/xrdp,0.67459,,1574,6,125,238,1816,4.72,5,5,1855,0,2004-07-09T02:33:57Z,C,Apache License 2.0,5076,2024-01-22T17:24:19Z
+https://github.com/bulletphysics/bullet3,0.62934,80,2370,0.15,305,215,2694,1.63,4,1,2620,2,2006-05-25T19:18:29Z,C++,Other,11578,2023-11-28T22:23:32Z
+https://github.com/PurpleI2P/i2pd,0.6705,,810,7.4,141,126,2220,4.24,4,8,893,0,2013-09-01T15:09:28Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",3024,2024-01-30T23:02:14Z
+https://github.com/Lienol/openwrt,0.58626,,139,5.15,1177,241,765,0.19,3,0,141,1,2004-03-28T00:16:07Z,C,Other,3243,2023-12-20T17:13:50Z
+https://github.com/cvxgrp/cvxpy,0.49549,1,0,1.73,174,128,637,0,7,0,0,4,2013-07-01T23:48:58Z,C++,Apache License 2.0,5,2023-09-11T23:02:30Z
+https://github.com/OSGeo/grass,0.65687,,2841,6.92,109,191,292,2.97,8,5,3314,0,2008-04-27T12:33:26Z,C,Other,728,2024-01-30T23:43:51Z
+https://github.com/wxMaxima-developers/wxmaxima,0.64734,,1597,25.27,92,231,905,1.88,3,12,1801,0,2005-01-29T10:15:26Z,C++,Other,440,2024-01-30T20:27:08Z
+https://github.com/phpredis/phpredis,0.64796,,1081,1.87,192,173,713,3.23,9,1,1236,0,2009-11-13T10:39:33Z,C,Other,9826,2024-01-24T20:46:50Z
+https://github.com/swaywm/wlroots,0.65143,,2348,0,182,82,10010,3.11,5,2,2742,27,2017-04-25T15:32:52Z,C,MIT License,2105,2021-11-01T16:09:00Z
+https://github.com/cmangos/mangos-classic,0.6451,,209,7.44,592,186,5586,2.56,2,1,214,0,2008-10-13T20:06:16Z,C++,GNU General Public License v2.0,830,2024-01-13T12:54:58Z
+https://github.com/raysan5/raylib,0.71301,,3010,16.42,553,125,1304,3.39,6,3,3034,0,2013-10-24T15:46:04Z,C,zlib License,17539,2024-01-29T20:16:17Z
+https://github.com/mapeditor/tiled,0.63828,,1200,5.33,411,191,57,2.92,6,4,1724,0,2008-05-05T18:19:13Z,C++,Other,10428,2024-01-30T19:46:54Z
+https://github.com/monero-project/monero,0.66863,,5350,5.83,389,124,4699,3.64,1,3,5879,0,2013-11-14T22:24:23Z,C++,Other,8351,2024-01-19T18:45:01Z
+https://github.com/Azure/azure-iot-sdk-c,0.63403,,2166,1.42,181,101,1350,3.05,4,2,2175,0,2015-09-23T08:03:40Z,C,Other,565,2024-01-27T02:27:30Z
+https://github.com/rathena/rathena,0.63916,,5235,6.15,273,234,12099,1.92,1,0,5630,0,2004-11-04T23:25:09Z,C++,GNU General Public License v3.0,2646,2024-01-26T14:02:51Z
+https://github.com/pgRouting/pgrouting,0.63689,,1618,4.62,142,203,1166,0.83,7,4,1683,2,2007-05-15T04:01:14Z,C++,GNU General Public License v2.0,1078,2023-11-25T00:59:20Z
+https://github.com/opencv/opencv_contrib,0.67073,,1788,2.35,468,126,2656,1.92,4,5,2227,0,2013-09-11T13:28:04Z,C++,Apache License 2.0,8911,2024-01-19T20:13:59Z
+https://github.com/miniupnp/miniupnp,0.64533,,405,1.73,121,150,4226,4.36,5,2,444,0,2011-09-22T08:25:20Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1355,2024-01-26T23:35:56Z
+https://github.com/hanwckf/rt-n56u,0.57654,,498,0,240,143,1590,1.92,2,1,789,32,2012-05-02T22:35:33Z,C,,3223,2021-06-14T14:09:35Z
+https://github.com/soedinglab/MMseqs2,0.62066,,409,1.33,91,135,933,3.33,8,1,752,1,2012-12-17T09:07:30Z,C,GNU General Public License v3.0,1180,2023-12-07T05:17:19Z
+https://github.com/citizenfx/fivem,0.63837,,1877,12.79,273,85,249,1.89,2,515,2180,0,2017-01-16T21:18:18Z,C++,,3220,2024-01-29T12:44:34Z
+https://github.com/jedisct1/libsodium,0.63764,,1168,2.63,136,134,3750,1.28,7,1,1169,0,2013-01-20T00:00:11Z,C,Other,11730,2024-01-17T14:06:11Z
+https://github.com/nodejs/node-addon-api,0.68188,33759,1244,1.79,114,84,5911,4.36,9,4,1251,0,2017-02-08T22:54:19Z,C++,MIT License,1992,2024-01-29T22:44:41Z
+https://github.com/symless/synergy-core,0.6468,,1762,0.85,120,276,1074,1.88,5,39,1953,0,2001-05-13T11:40:29Z,C++,Other,9837,2024-01-24T20:02:39Z
+https://github.com/souffle-lang/souffle,0.59409,,1787,1.08,130,99,540,2.4,3,2,1916,1,2015-12-13T23:12:41Z,C++,Universal Permissive License v1.0,834,2023-12-24T08:24:46Z
+https://github.com/gerbera/gerbera,0.63483,,2569,2.79,100,228,2918,2.71,4,1,2662,0,2005-04-14T07:03:45Z,C++,Other,1112,2024-01-29T17:56:00Z
+https://github.com/cinder/Cinder,0.61097,,271,0.92,175,167,4441,1.96,5,0,451,0,2010-04-21T19:03:10Z,C++,Other,5208,2024-01-08T03:01:09Z
+https://github.com/mapsme/omim,0.64444,4,5709,0,209,101,272,1.58,8,74,6190,33,2015-09-20T02:57:13Z,C++,Apache License 2.0,4523,2021-04-27T13:57:41Z
+https://github.com/MoarVM/MoarVM,0.61828,,844,1.5,145,143,1241,1.69,3,10,1057,0,2012-04-06T22:41:44Z,C,Other,669,2024-01-26T19:27:51Z
+https://github.com/kelektiv/node.bcrypt.js,0.65093,3083,460,0.38,82,168,7085,3.91,10,1,489,2,2010-04-13T05:32:04Z,C++,MIT License,7221,2023-11-07T02:55:50Z
+https://github.com/synfig/synfig,0.6282,,2401,7.25,129,229,161,4.21,3,5,3004,0,2005-03-21T07:08:04Z,C++,GNU General Public License v3.0,1637,2024-01-30T04:10:51Z
+https://github.com/AFLplusplus/AFLplusplus,0.67482,,1824,13.37,237,56,1811,3.65,5,4,1857,0,2019-05-28T14:29:06Z,C,Apache License 2.0,4326,2024-01-18T15:17:48Z
+https://github.com/KDE/kdevelop,0.64821,,5,10.25,561,305,6007,1,7,7,5,0,1999-01-09T13:16:08Z,C++,Other,446,2024-01-23T21:24:15Z
+https://github.com/gcc-mirror/gcc,0.73456,,40,198.52,3815,428,26782,1,2,5,80,0,1988-11-23T07:17:23Z,C,GNU General Public License v2.0,8448,2024-01-11T18:24:25Z
+https://github.com/shogun-toolbox/shogun,0.63186,,1098,0.02,248,214,832,3.82,5,2,1294,1,2006-06-05T14:33:25Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",2986,2023-12-19T18:37:18Z
+https://github.com/pbek/QOwnNotes,0.65228,,2031,11.56,91,111,94,7.38,3,68,2169,0,2014-11-29T15:48:42Z,C++,GNU General Public License v2.0,4140,2024-01-30T19:11:25Z
+https://github.com/microsoft/react-native-code-push,0.65333,32,1501,0.71,177,105,447,4.56,7,7,1566,0,2015-06-02T17:19:20Z,C,Other,8734,2024-01-26T14:37:54Z
+https://github.com/intel/libva,0.66604,,422,1.85,175,202,24761,2.71,4,3,608,0,2007-06-19T23:09:11Z,C,Other,595,2024-01-07T09:06:40Z
+https://github.com/unbit/uwsgi,0.66403,,479,0.87,359,179,1859,2.38,6,8,1031,1,2009-04-20T10:40:46Z,C,Other,3375,2023-12-26T11:13:58Z
+https://github.com/MotorolaMobilityLLC/kernel-msm,0.76589,,450,6.67,5000,228,631,3.54,10,43,457,0,2005-04-16T22:20:36Z,C,Other,587,2024-01-11T15:45:21Z
+https://github.com/rapidsai/cuml,0.64673,,4888,6.5,168,64,2068,2.87,2,7,5735,0,2018-10-08T17:50:54Z,C++,Apache License 2.0,3783,2024-01-29T23:15:18Z
+https://github.com/CoolProp/CoolProp,0.6435,,537,1.42,86,118,1230,3.86,11,2,809,0,2014-05-14T10:43:50Z,C++,MIT License,681,2024-01-16T00:51:04Z
+https://github.com/enjoy-digital/litex,0.67318,,1585,12.17,229,148,2163,3.08,7,0,1826,0,2011-12-04T15:44:38Z,C,Other,2551,2024-01-30T09:56:55Z
+https://github.com/endless-sky/endless-sky,0.64758,,5593,16.12,323,121,1306,4.61,0,7,6513,0,2014-02-01T19:42:30Z,C++,GNU General Public License v3.0,4779,2024-01-28T20:02:29Z
+https://github.com/ispc/ispc,0.64229,,1296,11.75,121,153,1564,1.52,4,5,1498,0,2011-06-21T19:48:50Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",2366,2024-01-23T18:53:23Z
+https://github.com/Beep6581/RawTherapee,0.65225,,2196,6.02,167,171,992,5.74,2,4,2967,0,2010-01-01T11:52:33Z,C++,GNU General Public License v3.0,2437,2024-01-28T19:46:11Z
+https://github.com/projectacrn/acrn-hypervisor,0.61769,,8306,1.9,200,71,2153,2.63,2,1,8553,2,2018-03-05T21:52:25Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1048,2023-11-13T08:12:07Z
+https://github.com/verilator/verilator,0.71003,,3063,18,203,212,1806,4.41,5,8,3359,0,2006-08-26T11:35:28Z,C++,GNU Lesser General Public License v3.0,1941,2024-01-29T15:00:00Z
+https://github.com/apache/subversion,0.60504,,11,2.17,187,291,8233,1.45,3,12,11,0,2000-03-01T02:32:07Z,C,Apache License 2.0,537,2024-01-30T10:54:12Z
+https://github.com/rspamd/rspamd,0.6557,,4285,16.42,210,191,618,1.45,3,9,4455,0,2008-05-08T15:05:30Z,C,Other,1896,2024-01-29T11:26:04Z
+https://github.com/FreeRDP/Remmina,0.63368,,108,9.35,236,173,681,1.45,7,6,109,0,2009-10-16T07:04:46Z,C,GNU General Public License v2.0,2082,2024-01-24T14:09:36Z
+https://github.com/MirServer/mir,0.66289,,2804,20.98,106,141,109,2.82,8,10,2990,0,2012-06-20T07:07:04Z,C++,GNU General Public License v2.0,553,2024-01-30T14:58:13Z
+https://github.com/ros-planning/navigation,0.61903,,571,0.02,170,175,307,1.93,9,8,671,11,2009-09-04T23:10:08Z,C++,,2141,2023-03-04T06:08:15Z
+https://github.com/uncrustify/uncrustify,0.63547,,2436,6.92,207,173,1078,1.93,3,2,2748,0,2009-10-17T18:13:55Z,C++,GNU General Public License v2.0,2771,2024-01-27T16:39:45Z
+https://github.com/Klipper3d/klipper,0.68875,,6420,6.29,417,114,1057,4.64,5,1,6471,0,2014-08-24T02:10:07Z,C,GNU General Public License v3.0,8214,2024-01-27T16:44:39Z
+https://github.com/tpm2-software/tpm2-tss,0.63214,,1927,2.5,131,104,3208,2.4,4,1,2021,0,2015-06-30T16:21:57Z,C,"BSD 2-Clause ""Simplified"" License",674,2024-01-30T16:16:40Z
+https://github.com/AcademySoftwareFoundation/OpenShadingLanguage,0.5879,,912,2.29,81,187,113,2.02,5,6,953,0,2008-09-03T22:01:13Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1979,2024-01-23T06:23:51Z
+https://github.com/Tencent/ncnn,0.65542,,4070,6.52,306,80,353,2.27,5,5,5078,0,2017-06-30T10:55:37Z,C++,Other,18717,2024-01-30T06:15:33Z
+https://github.com/pure-data/pure-data,0.68985,,1418,9.12,105,200,1259,5.54,7,7,1942,3,2007-08-01T23:44:56Z,C,Other,1403,2023-10-30T14:56:36Z
+https://github.com/pmem/pmdk,0.68383,,3299,13.54,128,114,5270,2.02,4,8,3393,0,2014-09-03T20:55:23Z,C,Other,1316,2024-01-30T13:21:30Z
+https://github.com/zeromq/czmq,0.61772,,433,0.21,230,156,1819,1.68,7,1,466,5,2011-03-22T10:42:27Z,C,Mozilla Public License 2.0,1120,2023-08-25T05:28:03Z
+https://github.com/openresty/lua-nginx-module,0.6579,,838,1.37,154,168,642,2.36,7,26,1149,0,2010-04-11T15:46:06Z,C,,10998,2024-01-20T06:11:31Z
+https://github.com/google/filament,0.65272,2,6460,12.81,144,66,652,1.73,3,40,6585,0,2018-08-03T17:26:00Z,C++,Apache License 2.0,16747,2024-01-30T21:55:43Z
+https://github.com/doitsujin/dxvk,0.66322,,3472,6.27,144,76,1069,6.78,4,2,3730,0,2017-10-10T21:32:13Z,C++,zlib License,11376,2024-01-29T22:39:48Z
+https://github.com/stack-of-tasks/pinocchio,0.64426,13,1592,6.15,72,113,89,4.26,11,8,1630,0,2014-10-07T15:42:51Z,C++,Other,1335,2024-01-23T21:01:53Z
+https://github.com/gnuradio/volk,0.63912,,544,3.58,91,160,2687,3.8,5,2,601,0,2010-12-07T23:50:28Z,C++,GNU Lesser General Public License v3.0,493,2024-01-29T20:15:17Z
+https://github.com/microsoft/onnxruntime,0.67396,293,16350,45.94,582,63,2435,1.61,1,8,18590,0,2018-11-10T02:22:53Z,C++,MIT License,11728,2024-01-30T22:29:12Z
+https://github.com/profanity-im/profanity,0.6322,,1097,5.98,131,146,488,3.29,6,1,1148,0,2012-02-02T01:02:32Z,C,Other,1249,2024-01-22T15:03:48Z
+https://github.com/PCSX2/pcsx2,0.68148,,8250,46.71,384,185,2015,3.45,0,1535,8706,0,2008-11-06T23:24:48Z,C++,Other,9897,2024-01-30T04:35:11Z
+https://github.com/mltframework/shotcut,0.60264,,991,10.5,61,149,607,2.85,1,17,1066,0,2011-10-22T18:00:02Z,C++,GNU General Public License v3.0,9737,2024-01-28T18:58:01Z
+https://github.com/OpenSMTPD/OpenSMTPD,0.64858,,370,5.02,194,185,705,3.28,5,8,460,0,2008-11-01T21:35:28Z,C,Other,471,2024-01-28T17:23:16Z
+https://github.com/mapnik/mapnik,0.63326,,502,0.96,134,230,4885,2.31,4,4,859,2,2005-02-18T18:14:43Z,C++,GNU Lesser General Public License v2.1,3514,2023-11-28T08:54:08Z
+https://github.com/srsran/srsRAN_4G,0.53115,,888,4.15,100,123,0,2.91,5,3,1111,2,2013-12-06T13:53:04Z,C++,GNU Affero General Public License v3.0,3245,2023-11-23T14:19:27Z
+https://github.com/google/skia,0.64174,,92,108.31,586,211,2894,2.08,1,1,119,0,2006-09-20T15:05:56Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",8335,2024-01-30T21:45:14Z
+https://github.com/YosysHQ/yosys,0.70563,,3143,16.4,258,134,2011,1.85,6,12,3575,0,2013-01-05T10:10:48Z,C++,ISC License,3009,2024-01-30T09:58:42Z
+https://github.com/jarun/nnn,0.64036,,1673,2.92,187,113,1222,6.58,2,2,1680,1,2014-10-07T06:05:30Z,C,"BSD 2-Clause ""Simplified"" License",17735,2023-12-15T00:37:44Z
+https://github.com/ros-visualization/rviz,0.6486,,640,0.69,167,182,307,3.23,9,14,776,2,2009-02-14T00:48:09Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",743,2023-11-15T18:19:07Z
+https://github.com/seL4/seL4,0.65501,,913,4.13,159,116,3107,4.75,3,3,1097,0,2014-07-17T19:03:59Z,C,Other,4439,2024-01-30T11:43:30Z
+https://github.com/squid-cache/squid,0.68622,,1421,5.38,255,340,2158,3.43,4,13,1525,0,1996-02-22T13:23:53Z,C++,GNU General Public License v2.0,1854,2024-01-30T18:20:54Z
+https://github.com/sofa-framework/sofa,0.63175,,3093,7.63,292,220,223,2.36,4,1,3411,0,2005-12-08T13:09:44Z,C++,GNU Lesser General Public License v2.1,825,2024-01-29T15:54:27Z
+https://github.com/owasp-modsecurity/ModSecurity,0.54979,,1395,1.94,112,206,0,3.43,7,4,1607,0,2007-02-06T12:29:22Z,C++,Apache License 2.0,7251,2024-01-30T15:43:48Z
+https://github.com/openxla/iree,0.69155,,15160,56.37,179,53,1247,1.76,4,343,16218,0,2019-09-12T20:57:39Z,C++,Apache License 2.0,2241,2024-01-30T23:24:12Z
+https://github.com/facebook/yoga,0.6977,31,848,6.04,290,119,11513,3.92,5,2,960,0,2014-03-31T00:12:38Z,C++,MIT License,16711,2024-01-23T06:07:49Z
+https://github.com/mariadb-corporation/MaxScale,0.62419,,173,62.4,59,140,678,0.72,5,18,182,0,2012-07-27T15:30:32Z,C++,Other,1355,2024-01-29T11:08:08Z
+https://github.com/simdjson/simdjson,0.64643,,1910,4.58,125,71,446,5.07,3,20,2036,0,2018-03-23T00:49:18Z,C++,Apache License 2.0,17937,2024-01-29T15:43:12Z
+https://github.com/mapbox/mapbox-gl-native,0.68324,6,5689,0.06,242,122,6209,1.9,4,71,6000,6,2014-01-07T11:10:14Z,C++,Other,4319,2023-07-27T09:35:39Z
+https://github.com/torproject/tor,0.64941,,1956,3.96,297,262,432,1.12,4,28,2108,7,2002-06-26T22:45:49Z,C,Other,4226,2023-06-19T12:09:45Z
+https://github.com/cocos/cocos-engine,0.62996,,13882,28.71,186,99,22,1.21,4,26,14425,0,2015-12-05T03:28:59Z,C++,Other,4994,2024-01-24T09:04:44Z
+https://github.com/introlab/rtabmap,0.61736,,582,3.98,44,157,1274,3.2,7,1,947,0,2011-02-17T01:47:00Z,C++,Other,2385,2024-01-27T23:20:10Z
+https://github.com/sipwise/rtpengine,0.65165,,1243,15.79,106,142,55,3.85,6,54,1367,0,2012-06-01T16:05:22Z,C,GNU General Public License v3.0,724,2024-01-25T09:07:29Z
+https://github.com/pygame/pygame,0.66221,889,3459,13.6,315,282,1381,2.83,1,11,3839,1,2000-11-08T00:19:31Z,C,,6709,2023-12-30T18:37:11Z
+https://github.com/merbanan/rtl_433,0.66191,,1847,4.19,435,144,746,7.24,2,2,2104,0,2012-03-11T23:30:54Z,C,GNU General Public License v2.0,5536,2024-01-28T10:13:41Z
+https://github.com/facebook/wangle,0.71052,,77,10.73,328,111,97098,1.32,4,49,114,0,2014-12-11T20:12:30Z,C++,Apache License 2.0,3013,2024-01-30T17:32:17Z
+https://github.com/gqrx-sdr/gqrx,0.53851,,642,4.79,111,161,97,3.28,0,6,849,1,2010-10-28T21:41:07Z,C++,GNU General Public License v3.0,2763,2023-12-24T01:37:37Z
+https://github.com/coreos/rpm-ostree,0.65076,,3288,10.56,93,123,512,3.43,3,12,3634,0,2013-12-22T00:41:30Z,C,Other,791,2024-01-30T17:15:38Z
+https://github.com/qt-creator/qt-creator,0.69523,,29,146.65,846,184,2434,1.29,5,9,35,0,2008-12-02T11:01:29Z,C++,Other,2293,2024-01-29T15:44:21Z
+https://github.com/janet-lang/janet,0.65873,,1117,9.71,102,84,1744,3.16,5,8,1161,0,2017-02-09T20:02:59Z,C,MIT License,3227,2024-01-28T21:53:41Z
+https://github.com/taglib/taglib,0.64619,,366,4.25,151,242,3783,2.32,6,2,401,0,2004-02-17T02:11:05Z,C++,GNU Lesser General Public License v2.1,1081,2024-01-28T15:22:14Z
+https://github.com/steveicarus/iverilog,0.64782,,763,6.73,113,307,653,2.55,6,9,884,0,1998-11-03T23:28:49Z,C++,GNU General Public License v2.0,2526,2024-01-30T23:31:56Z
+https://github.com/bbuchfink/diamond,0.62141,,400,1.17,21,108,2234,3.17,9,8,571,0,2015-03-10T23:15:36Z,C++,GNU General Public License v3.0,905,2024-01-08T13:51:26Z
+https://github.com/ceres-solver/ceres-solver,0.6352,,676,1.77,109,143,2154,3.22,5,3,755,0,2012-05-01T06:09:08Z,C++,Other,3471,2024-01-30T17:11:24Z
+https://github.com/cnr-isti-vclab/meshlab,0.58709,,945,3.19,77,222,202,2.57,5,1,1090,0,2005-10-17T08:31:38Z,C++,GNU General Public License v3.0,4234,2024-01-26T12:47:37Z
+https://github.com/ipxe/ipxe,0.63046,,430,3.19,184,230,899,4.44,6,0,558,0,2005-03-08T18:53:11Z,C,Other,1301,2024-01-30T18:00:31Z
+https://github.com/texstudio-org/texstudio,0.66001,,2864,14.67,125,183,540,3.41,2,37,3343,0,2009-01-15T12:44:27Z,C++,GNU General Public License v3.0,2494,2024-01-30T20:31:15Z
+https://github.com/IfcOpenShell/IfcOpenShell,0.69053,,3211,54.67,180,155,148,3.66,4,355,3883,0,2011-05-08T11:04:32Z,C++,GNU Lesser General Public License v3.0,1516,2024-01-30T10:41:08Z
+https://github.com/magma/magma,0.64874,,14655,2.81,311,60,701,2,5,5,15018,1,2019-02-15T04:46:24Z,C++,Other,1626,2023-12-18T13:13:14Z
+https://github.com/libarchive/libarchive,0.65902,,811,2.65,299,191,9904,1.98,3,3,1176,0,2008-04-29T21:56:43Z,C,Other,2732,2024-01-05T00:49:53Z
+https://github.com/wwmm/easyeffects,0.69484,,2439,27.31,195,83,109,5.98,6,34,2619,0,2017-03-20T15:06:12Z,C++,GNU General Public License v3.0,5630,2024-01-30T16:16:33Z
+https://github.com/cisco-system-traffic-generator/trex-core,0.61061,,842,1.6,142,104,62,4.51,4,15,1016,2,2015-06-24T11:03:29Z,C,Other,1193,2023-11-21T08:50:55Z
+https://github.com/cbsd/cbsd,0.61972,,495,3.02,41,148,2788,2.9,3,15,500,0,2011-11-24T00:46:39Z,C,"BSD 2-Clause ""Simplified"" License",601,2024-01-29T12:02:51Z
+https://github.com/zsh-users/zsh,0.64507,,89,4.6,324,301,5243,3.46,2,8,91,0,1999-04-15T18:05:35Z,C,Other,3368,2024-01-29T02:22:36Z
+https://github.com/bitcraze/crazyflie-firmware,0.65863,,1008,5.81,107,133,4333,2.07,5,6,1064,0,2013-01-31T22:08:14Z,C,GNU General Public License v3.0,1064,2024-01-30T15:31:01Z
+https://github.com/cmderdev/cmder,0.6301,,1611,1.52,153,128,244,3.87,8,1,1655,0,2013-07-09T07:43:50Z,C++,MIT License,25401,2024-01-03T00:54:57Z
+https://github.com/Project-OSRM/osrm-backend,0.67267,,1469,0.48,192,165,1132,2.69,8,17,2137,3,2010-07-09T07:52:46Z,C++,"BSD 2-Clause ""Simplified"" License",5922,2023-10-12T21:04:39Z
+https://github.com/rethinkdb/rethinkdb,0.64535,284,720,0.31,242,174,15461,2.2,4,1,1030,7,2009-10-03T22:47:38Z,C++,Other,26429,2023-06-21T02:05:37Z
+https://github.com/LibVNC/libvncserver,0.62468,,363,0.77,133,273,1513,3.11,10,0,430,1,2001-08-01T11:52:01Z,C,GNU General Public License v2.0,1017,2023-12-02T11:36:54Z
+https://github.com/samba-team/samba,0.75177,,129,87.6,691,337,4824,2.28,8,40,129,0,1996-05-04T07:50:45Z,C,GNU General Public License v3.0,838,2024-01-10T14:43:58Z
+https://github.com/livecode/livecode,0.62062,,1182,0,81,131,282,3.35,6,26,1361,30,2013-04-10T00:14:58Z,C++,Other,468,2021-07-26T12:49:12Z
+https://github.com/openldap/openldap,0.61123,,9,2.88,179,310,2101,1.44,7,11,9,0,1998-08-09T00:43:13Z,C,Other,420,2024-01-26T10:24:25Z
+https://github.com/verilog-to-routing/vtr-verilog-to-routing,0.67243,,1814,40.08,179,153,1906,2.81,4,1,2239,0,2011-06-13T17:59:55Z,C++,Other,926,2024-01-23T21:10:35Z
+https://github.com/cocos/engine-native,0.49529,,3174,0.04,71,95,2,0.58,3,13,3240,11,2016-03-14T08:35:33Z,C++,,677,2023-02-20T02:49:17Z
+https://github.com/Exiv2/exiv2,0.67589,,2559,9.23,132,244,2071,4.39,4,4,2728,0,2004-01-15T02:44:33Z,C++,Other,822,2024-01-26T04:03:21Z
+https://github.com/NVIDIA/DALI,0.64284,,5086,8.63,88,68,520,5.67,2,12,5292,0,2018-06-01T22:18:01Z,C++,Apache License 2.0,4774,2024-01-30T16:28:46Z
+https://github.com/immortalwrt/immortalwrt,0.66317,,905,69.75,1507,241,347,1.7,3,0,913,0,2004-03-28T00:16:07Z,C,Other,3821,2024-01-30T04:50:26Z
+https://github.com/agherzan/meta-raspberrypi,0.62486,,1033,1.44,180,143,1998,3.77,4,0,1092,0,2012-04-03T19:42:18Z,C,MIT License,479,2024-01-23T17:20:36Z
+https://github.com/borglab/gtsam,0.62004,,1594,15.27,242,175,56,3.66,4,1,1687,0,2009-08-21T22:23:24Z,C++,Other,2299,2024-01-17T14:52:54Z
+https://github.com/BeamMW/beam,0.61905,,1550,8.08,46,71,1572,1.92,4,8,1820,0,2018-03-15T18:49:06Z,C++,Apache License 2.0,693,2024-01-21T13:22:25Z
+https://github.com/linuxwacom/input-wacom,0.63444,,383,1.19,48,160,52272,5.13,2,2,390,0,2010-12-02T01:57:00Z,C,GNU General Public License v2.0,580,2024-01-04T21:43:16Z
+https://github.com/rizsotto/Bear,0.61155,,326,0.48,57,136,876,4.11,7,4,360,4,2012-10-30T09:53:39Z,C++,GNU General Public License v3.0,4197,2023-09-30T18:56:53Z
+https://github.com/facebookincubator/katran,0.66844,,213,11.88,183,70,96967,3.94,3,0,217,0,2018-04-27T21:49:35Z,C,GNU General Public License v2.0,4420,2024-01-30T17:32:17Z
+https://github.com/grame-cncm/faust,0.64404,1,665,11.23,166,240,189,3.16,6,6,849,0,2004-04-27T15:20:07Z,C++,Other,2356,2024-01-29T10:46:51Z
+https://github.com/panda3d/panda3d,0.61902,63,1054,6.13,162,283,611,3.29,3,1,1372,0,2000-10-04T00:15:23Z,C++,Other,4160,2024-01-30T11:19:41Z
+https://github.com/cc65/cc65,0.63054,,1479,11.23,134,288,655,5.49,3,0,1698,0,2000-05-28T13:40:48Z,C,zlib License,2133,2024-01-28T15:53:29Z
+https://github.com/nest/nest-simulator,0.6745,,2258,51.48,165,107,588,2.82,4,6,2406,0,2015-04-14T13:39:12Z,C++,GNU General Public License v2.0,501,2024-01-26T09:07:55Z
+https://github.com/rizinorg/rizin,0.6743,,3699,11.88,1022,182,71,2.01,5,7,4116,0,2009-02-05T21:08:46Z,C,GNU Lesser General Public License v3.0,2301,2024-01-30T14:36:39Z
+https://github.com/ring-lang/ring,0.61882,,892,43.27,161,95,615,1.18,3,2,892,0,2016-03-24T10:29:27Z,C,MIT License,1191,2024-01-27T16:33:31Z
+https://github.com/ARM-software/arm-trusted-firmware,0.7641,,696,39.08,632,125,26091,3.7,5,9,707,0,2013-10-21T11:39:00Z,C,Other,1764,2024-01-26T16:50:03Z
+https://github.com/Zilliqa/Zilliqa,0.64572,,3721,6.5,83,74,1545,0.81,5,41,3845,0,2017-12-27T07:42:33Z,C++,GNU General Public License v3.0,1125,2024-01-25T10:22:05Z
+https://github.com/tsujan/Kvantum,0.59855,,710,1.62,67,115,632,3.32,4,3,710,0,2014-08-08T15:15:52Z,C++,,1425,2024-01-23T21:14:21Z
+https://github.com/eranif/codelite,0.61812,,1475,10.63,127,195,2455,2.43,1,3,1617,0,2008-01-16T06:30:13Z,C++,GNU General Public License v2.0,2030,2024-01-29T06:50:15Z
+https://github.com/ocornut/imgui,0.72894,,4663,11.29,396,116,4851,4.03,4,9,5594,0,2014-07-21T14:29:47Z,C++,MIT License,53674,2024-01-25T14:43:19Z
+https://github.com/audacity/audacity,0.68781,,4373,36.08,260,170,1147,3.05,2,10,5430,0,2010-01-23T19:44:49Z,C,Other,10786,2024-01-22T10:37:49Z
+https://github.com/aircrack-ng/aircrack-ng,0.66319,,2107,7.46,72,208,4854,2.7,7,1,2520,0,2006-12-11T20:29:23Z,C,GNU General Public License v2.0,4542,2024-01-19T04:15:16Z
+https://github.com/GNOME/libxml2,0.64587,,21,11.98,323,310,4185,1.14,6,8,21,0,1998-07-24T19:24:09Z,C,Other,513,2024-01-30T13:18:45Z
+https://github.com/OpenCPN/OpenCPN,0.64408,,2313,23.77,120,171,1271,5.38,1,3,2535,0,2010-01-01T00:24:31Z,C,GNU General Public License v2.0,932,2024-01-30T21:16:00Z
+https://github.com/Airblader/i3,0.60796,,270,0,359,182,408,3.13,4,5,271,15,2009-02-06T03:44:56Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",5932,2022-11-01T17:29:31Z
+https://github.com/facebook/redex,0.63059,,495,20.06,263,95,727,3.08,4,0,564,0,2016-03-24T18:26:35Z,C++,MIT License,5948,2024-01-30T22:41:53Z
+https://github.com/Cockatrice/Cockatrice,0.62284,,1943,2.38,154,181,990,2.49,4,1,2368,0,2009-03-13T21:50:41Z,C++,GNU General Public License v2.0,1431,2024-01-30T05:27:45Z
+https://github.com/ksnip/ksnip,0.63323,,552,1.38,162,91,442,5.22,7,2,792,0,2016-07-31T17:51:28Z,C++,GNU General Public License v3.0,1809,2024-01-25T14:43:30Z
+https://github.com/iputils/iputils,0.66449,,384,2.13,137,216,8060,3.53,7,2,428,0,2006-04-16T10:44:23Z,C,Other,591,2024-01-12T16:30:58Z
+https://github.com/glfw/glfw,0.64734,,927,2.23,197,174,3890,3.22,4,1,1490,0,2009-09-29T21:10:27Z,C,zlib License,11700,2024-01-30T17:21:33Z
+https://github.com/webview/webview,0.64449,135,787,1.23,73,78,68560,2.87,5,0,995,0,2017-08-19T08:26:00Z,C,MIT License,11805,2024-01-10T02:52:29Z
+https://github.com/SuperTux/supertux,0.62593,,1834,7.25,170,253,1346,2.45,2,2,2083,0,2003-04-09T05:45:33Z,C++,GNU General Public License v3.0,1713,2024-01-30T21:21:53Z
+https://github.com/facebookresearch/faiss,0.67098,,2432,5.17,150,84,4398,3.02,7,1,2849,0,2017-02-07T16:07:05Z,C++,MIT License,26584,2024-01-30T18:58:13Z
+https://github.com/tensorflow/community,0.6441,,394,1.23,132,70,28045,4.32,5,0,434,5,2018-05-01T18:38:43Z,C++,Apache License 2.0,1230,2023-08-15T22:09:37Z
+https://github.com/stellar/stellar-core,0.6697,,2415,21.6,114,111,332,1.89,6,23,2685,0,2014-11-24T17:11:12Z,C,Other,3080,2024-01-30T22:45:25Z
+https://github.com/KhronosGroup/VK-GL-CTS,0.71848,,290,26.48,561,114,1599,2.39,7,22,372,0,2014-08-26T13:25:57Z,C++,Apache License 2.0,486,2024-01-08T08:47:02Z
+https://github.com/DragonFlyBSD/DragonFlyBSD,0.57482,,9,8.75,182,172,746,1.09,3,9,11,0,2009-11-27T08:49:04Z,C,Other,514,2024-01-25T14:22:43Z
+https://github.com/taichi-dev/taichi,0.68024,14,7514,14.06,235,87,1562,2.23,5,4,8274,1,2016-11-24T10:00:05Z,C++,Apache License 2.0,24331,2023-12-30T03:17:59Z
+https://github.com/rapid7/metasploit-payloads,0.60775,,376,4.98,124,227,1759,2.65,1,12,432,0,2005-05-24T19:08:32Z,C,Other,1612,2024-01-19T17:20:36Z
+https://github.com/libgeos/geos,0.6575,,959,5.35,84,263,1517,2.48,7,9,1028,0,2002-06-07T17:47:38Z,C++,GNU Lesser General Public License v2.1,1022,2024-01-14T20:26:11Z
+https://github.com/scp-fs2open/fs2open.github.com,0.61885,,4008,29.73,113,263,100,1.36,2,17,4457,0,2002-06-03T03:26:03Z,C++,Other,375,2024-01-30T03:53:18Z
+https://github.com/GNOME/gimp,0.67058,,29,38.96,1082,329,773,1.69,5,9,29,0,1997-01-01T16:47:44Z,C,Other,4385,2024-01-30T21:19:28Z
+https://github.com/pytorch/xla,0.65166,,5911,18.63,153,63,5084,2.35,2,2,6417,0,2018-11-05T22:42:04Z,C++,Other,2213,2024-01-30T21:08:08Z
+https://github.com/hydrogen-music/hydrogen,0.60866,,1170,12.75,76,202,453,3.22,2,4,1340,0,2007-06-18T18:05:17Z,C++,GNU General Public License v2.0,954,2024-01-23T18:09:41Z
+https://github.com/hove-io/navitia,0.61137,,2396,25.12,140,160,9,0.78,6,44,2440,0,2010-11-29T09:46:31Z,C++,GNU Affero General Public License v3.0,419,2024-01-30T07:53:33Z
+https://github.com/projectchrono/chrono,0.63387,,296,20.6,119,169,1781,2.01,7,0,368,0,2010-02-23T11:03:14Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1945,2024-01-30T06:39:23Z
+https://github.com/opengisch/QField,0.61439,,3897,23.88,32,111,46,3.49,3,34,4146,0,2014-11-26T16:20:45Z,C++,GNU General Public License v2.0,711,2024-01-28T05:21:35Z
+https://github.com/pmacct/pmacct,0.61077,,547,5.67,97,209,203,2.84,8,1,587,0,2006-11-19T15:16:07Z,C,Other,984,2024-01-30T19:58:50Z
+https://github.com/bminor/glibc,0.62481,,2,23,817,423,1188,0.5,4,47,2,0,1989-04-16T23:29:02Z,C,Other,1121,2024-01-29T16:01:07Z
+https://github.com/cyberbotics/webots,0.63289,,6009,9.48,120,63,252,1.91,6,5,6188,0,2018-11-05T14:09:10Z,C++,Apache License 2.0,2893,2024-01-29T12:16:03Z
+https://github.com/OpenSpace/OpenSpace,0.62468,,2067,15.94,60,122,1529,1.14,4,3,2643,0,2014-01-03T12:02:21Z,C++,MIT License,693,2024-01-30T08:43:11Z
+https://github.com/xmrig/xmrig,0.63271,,2556,1.92,58,82,9360,3.39,2,6,3089,2,2017-04-15T05:57:53Z,C,GNU General Public License v3.0,8106,2023-11-23T13:40:58Z
+https://github.com/pocl/pocl,0.65125,,715,11.46,128,157,999,2.79,5,5,814,0,2011-02-08T22:30:08Z,C,MIT License,846,2024-01-29T13:24:03Z
+https://github.com/OGRECave/ogre-next,0.59387,,319,3.62,273,191,41,2.12,6,3,426,0,2008-05-12T10:54:39Z,C++,Other,922,2024-01-30T18:18:26Z
+https://github.com/FastLED/FastLED,0.63445,,728,1.81,149,162,1013,3.77,6,1,1146,0,2010-09-22T10:16:55Z,C++,MIT License,6133,2024-01-15T22:05:27Z
+https://github.com/libfuse/libfuse,0.65006,,632,1.88,201,271,11555,2.65,2,7,658,0,2001-10-23T19:26:04Z,C,Other,4832,2024-01-08T16:38:36Z
+https://github.com/jackaudio/jack2,0.59216,,406,0.29,119,211,2324,4.03,2,1,731,6,2006-09-03T07:09:07Z,C++,GNU General Public License v2.0,2087,2023-07-30T19:17:44Z
+https://github.com/AravisProject/aravis,0.63774,,634,3.4,137,172,167,3.31,8,8,747,0,2009-12-11T21:28:24Z,C,GNU Lesser General Public License v2.1,753,2024-01-19T06:16:06Z
+https://github.com/gnss-sdr/gnss-sdr,0.62681,,449,4.37,59,150,7014,2.09,4,3,647,0,2011-10-01T18:39:50Z,C++,GNU General Public License v3.0,1402,2024-01-25T00:02:30Z
+https://github.com/networkupstools/nut,0.64244,,1282,25.79,188,231,3032,3.71,1,1,1914,0,2005-01-27T14:33:14Z,C,Other,1388,2024-01-29T13:04:46Z
+https://github.com/MRPT/mrpt,0.63384,,642,8.5,95,166,88,2.01,9,19,667,0,2010-06-03T14:48:23Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1819,2024-01-26T13:42:01Z
+https://github.com/baldurk/renderdoc,0.63806,,2382,12.77,267,120,70,2.55,4,7,2419,0,2014-02-27T15:16:30Z,C++,MIT License,8175,2024-01-30T20:33:13Z
+https://github.com/libass/libass,0.60216,,403,0.87,52,213,3030,5.5,3,1,520,0,2006-07-07T18:26:51Z,C,ISC License,841,2024-01-20T19:13:20Z
+https://github.com/ValveSoftware/Proton,0.62841,,3186,3.94,87,73,341,4.12,4,6,7277,0,2018-01-18T16:03:41Z,C++,Other,22006,2024-01-19T21:26:31Z
+https://github.com/csound/csound,0.62513,1,849,0,95,251,6007,4.34,3,3,957,14,2003-06-15T11:57:04Z,C,GNU Lesser General Public License v2.1,1168,2022-11-23T19:53:55Z
+https://github.com/RunestoneInteractive/RunestoneServer,0.60819,,1142,1.13,103,178,558,2.17,5,4,1142,7,2009-06-04T18:33:12Z,C++,Other,568,2023-06-07T16:50:45Z
+https://github.com/flame/blis,0.64857,,570,1.04,74,135,692,6.6,10,3,665,0,2012-12-03T18:36:11Z,C,Other,1971,2024-01-14T04:03:31Z
+https://github.com/RedisInsight/RedisDesktopManager,0.55344,,1144,0.08,83,127,17,1.6,6,9,1200,9,2013-08-05T07:51:08Z,C++,Other,22578,2023-04-18T08:46:34Z
+https://github.com/BVLC/caffe,0.65564,,669,0,314,126,12220,1.88,8,1,1269,48,2013-09-12T18:39:48Z,C++,Other,33751,2020-02-13T07:20:36Z
+https://github.com/ros-planning/navigation2,0.69883,,4006,4.98,229,69,502,4.17,11,13,4080,0,2018-05-29T23:35:08Z,C++,Other,1879,2024-01-30T01:19:35Z
+https://github.com/baresip/baresip,0.66605,,2366,5.04,100,121,795,3.21,6,12,2373,0,2014-02-09T10:44:09Z,C,"BSD 3-Clause ""New"" or ""Revised"" License",1564,2024-01-30T07:43:00Z
+https://github.com/TigerVNC/tigervnc,0.64899,,1057,2.9,140,193,982,4.47,6,2,1230,7,2008-03-20T13:30:22Z,C++,GNU General Public License v2.0,4549,2023-06-12T08:44:43Z
+https://github.com/Komet/MediaElch,0.56508,,1134,4.08,36,145,130,2.47,3,4,1351,0,2012-03-03T13:03:39Z,C++,GNU Lesser General Public License v3.0,758,2024-01-28T13:30:34Z
+https://github.com/ged/ruby-pg,0.67661,,311,3.4,63,195,10451,6.01,8,3,328,2,2008-01-07T22:16:13Z,C,Other,738,2023-11-19T10:53:24Z
+https://github.com/KhronosGroup/OpenGL-Registry,0.61887,,448,0.63,136,86,3321,3.2,7,0,474,0,2016-12-10T12:19:04Z,C,,614,2024-01-04T06:09:46Z
+https://github.com/jonas/tig,0.59815,,501,0.38,192,216,693,2.05,5,1,663,0,2006-04-10T16:39:01Z,C,GNU General Public License v2.0,12004,2024-01-18T22:24:36Z
+https://github.com/mavlink/mavros,0.62854,,755,1.52,154,123,202,3.17,8,4,1092,2,2013-12-12T22:15:28Z,C++,Other,790,2023-11-15T16:19:15Z
+https://github.com/Legrandin/pycryptodome,0.65694,,608,2.25,146,305,2497,2.58,6,8,668,0,1998-12-14T02:19:48Z,C,Other,2603,2024-01-13T17:49:12Z
+https://github.com/pulseaudio/pulseaudio,0.6265,,5,1.52,580,239,15852,1,5,5,5,2,2004-06-08T21:50:14Z,C,Other,398,2023-12-01T10:28:05Z
+https://github.com/giuspen/cherrytree,0.59089,,1456,4.44,79,160,365,3.51,1,7,2330,0,2010-11-18T20:03:57Z,C++,Other,3139,2024-01-26T22:30:11Z
+https://github.com/simh/simh,0.61163,,635,4.54,85,155,312,4.37,4,3,715,0,2011-04-15T15:33:23Z,C,Other,1592,2024-01-07T00:43:21Z
+https://github.com/opensim-org/opensim-core,0.63473,,1662,14.21,87,228,814,2.61,5,1,2026,0,2005-05-09T19:52:29Z,C++,Apache License 2.0,713,2024-01-29T19:20:52Z
+https://github.com/adobe-type-tools/afdko,0.62034,4,1330,3.21,59,114,693,1.85,6,7,1530,0,2014-09-19T02:26:06Z,C,Other,973,2024-01-17T00:09:56Z
+https://github.com/Kitware/VTK,0.6387,,16,74.23,693,366,1268,1.39,3,3,23,0,1994-01-05T17:13:00Z,C++,Other,2399,2024-01-30T18:46:45Z
+https://github.com/openmm/openmm,0.65443,,2247,2.35,160,192,94,5.65,11,3,2644,0,2008-04-15T22:56:47Z,C++,,1303,2024-01-26T18:30:59Z
+https://github.com/zerotier/ZeroTierOne,0.66118,,1370,5.23,96,131,3006,3.49,4,7,1621,2,2013-04-24T13:21:10Z,C++,Other,12804,2023-11-20T16:16:10Z
+https://github.com/s3fs-fuse/s3fs-fuse,0.64073,,1618,3.35,124,199,367,2.37,11,2,1862,0,2007-09-21T18:28:30Z,C++,GNU General Public License v2.0,7838,2024-01-24T15:46:45Z
+https://github.com/precice/precice,0.61659,,1648,8.79,55,130,340,2.59,7,1,1852,0,2013-05-03T08:48:13Z,C++,GNU Lesser General Public License v3.0,643,2024-01-30T13:51:20Z
+https://github.com/iPlug2/iPlug2,0.61265,,894,9.17,84,163,927,2.56,5,0,1048,0,2010-08-16T23:21:44Z,C,Other,1743,2024-01-28T23:08:22Z
+https://github.com/adventuregamestudio/ags,0.66684,,1783,22.27,54,159,636,5.17,3,43,2036,0,2011-01-03T17:44:53Z,C++,Other,643,2024-01-30T06:30:22Z
+https://github.com/dyninst/dyninst,0.63408,,1182,6.4,296,374,167,2.39,7,1,1328,0,1993-05-07T20:21:15Z,C,GNU Lesser General Public License v2.1,680,2024-01-18T21:10:09Z
+https://github.com/ledger/ledger,0.66077,,549,3.58,229,247,3104,5.13,3,3,950,0,2003-09-29T07:06:02Z,C++,Other,4994,2024-01-18T21:27:01Z
+https://github.com/embree/embree,0.62364,,243,4.67,63,135,8086,2.45,3,5,309,4,2012-11-30T21:33:29Z,C++,Apache License 2.0,2210,2023-09-27T09:35:48Z
+https://github.com/gammu/gammu,0.60192,,324,1,251,204,299,1.69,3,14,516,0,2007-04-16T11:55:05Z,C,GNU General Public License v2.0,493,2024-01-30T08:34:10Z
+https://github.com/GNOME/gedit,0.62193,,6,5.87,1063,314,1027,1.5,3,15,6,0,1998-04-15T21:04:51Z,C,GNU General Public License v2.0,409,2024-01-30T10:47:22Z
+https://github.com/zeromq/cppzmq,0.61748,,366,0.52,115,154,776,2.82,10,1,479,3,2011-05-25T16:40:52Z,C++,MIT License,1774,2023-10-30T18:32:07Z
+https://github.com/LuxCoreRender/LuxCore,0.56874,,445,0.1,62,169,166,3.29,5,3,556,4,2010-02-15T16:44:44Z,C++,Apache License 2.0,1102,2023-09-10T12:47:55Z
+https://github.com/kohler/click,0.58973,,68,0,138,295,604,2.52,10,1,128,19,1999-10-14T22:18:47Z,C++,Other,724,2022-07-04T08:43:57Z
+https://github.com/gromacs/gromacs,0.60137,,15,10.42,232,319,620,0.93,7,5,15,0,1997-11-03T16:06:17Z,C++,GNU Lesser General Public License v2.1,626,2024-01-26T14:15:25Z
+https://github.com/cmus/cmus,0.63204,,419,0.77,180,227,13170,2.96,2,3,611,5,2005-06-05T18:20:51Z,C,GNU General Public License v2.0,5174,2023-08-13T12:48:54Z
+https://github.com/facebook/mvfst,0.65502,,290,20.35,276,70,3859,2.69,3,4,328,0,2018-04-09T22:49:15Z,C++,MIT License,1381,2024-01-30T20:09:04Z
+https://github.com/lxqt/qterminal,0.60325,,982,0.83,155,162,833,1.89,4,2,1089,0,2010-09-11T08:50:10Z,C++,GNU General Public License v2.0,557,2024-01-25T07:38:46Z
+https://github.com/gperftools/gperftools,0.65895,,577,4.23,123,213,1345,2.81,8,6,672,0,2006-07-27T00:57:14Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",7995,2024-01-30T22:18:12Z
+https://github.com/stepmania/stepmania,0.5877,,409,0,185,271,704,2.89,3,2,668,14,2001-10-18T21:10:56Z,C++,,1776,2022-11-14T22:31:26Z
+https://github.com/linux-pam/linux-pam,0.64994,,610,6.79,178,287,1006,2.55,7,2,739,0,2000-06-20T22:10:38Z,C,Other,541,2024-01-24T17:57:42Z
+https://github.com/yshui/picom,0.63235,,787,3.54,98,246,531,6.01,4,3,1073,0,2003-11-09T07:08:23Z,C,Other,3717,2024-01-30T22:44:01Z
+https://github.com/microsoft/GSL,0.59043,,589,0.58,143,102,2905,2.54,3,0,603,0,2015-08-19T01:11:19Z,C++,Other,5842,2024-01-17T23:25:32Z
+https://github.com/ghaerr/elks,0.55002,,1589,10.48,41,309,3,5.78,4,1,1612,0,1998-09-12T16:10:06Z,C,Other,883,2024-01-25T16:10:54Z
+https://github.com/olive-editor/olive,0.58404,,2109,2.58,70,74,472,3.41,4,0,2212,0,2017-12-25T14:12:29Z,C++,Other,7626,2024-01-15T16:57:11Z
+https://github.com/wkhtmltopdf/wkhtmltopdf,0.60372,,1459,0,90,191,1300,2.46,4,3,2786,19,2008-05-07T16:22:48Z,C++,GNU Lesser General Public License v3.0,13619,2022-06-22T14:48:35Z
+https://github.com/seccomp/libseccomp,0.63544,,305,0.6,73,146,7979,5.84,5,1,349,1,2012-01-30T17:35:27Z,C,GNU Lesser General Public License v2.1,746,2023-12-16T02:17:36Z
+https://github.com/360Controller/360Controller,0.60991,,577,0,41,125,22587,3.73,3,2,849,37,2013-09-25T14:05:07Z,C++,GNU General Public License v2.0,6617,2020-12-29T02:23:10Z
+https://github.com/veracrypt/VeraCrypt,0.56561,,834,5.9,96,112,351,3.05,1,1,1150,1,2014-11-08T22:12:36Z,C,Other,5804,2023-12-15T23:51:36Z
+https://github.com/VowpalWabbit/vowpal_wabbit,0.64013,,4528,2.29,332,179,1720,1.12,3,3,4671,0,2009-04-29T23:16:59Z,C++,Other,8365,2024-01-25T06:38:02Z
+https://github.com/falcosecurity/falco,0.69582,,2876,15.79,202,97,532,5.01,4,23,2977,0,2016-01-19T21:58:12Z,C++,Apache License 2.0,6639,2024-01-11T21:06:31Z
+https://github.com/xen-project/xen,0.60788,,1,32.1,941,658,710,0.33,5,6,3,0,1970-01-01T00:00:00Z,C,Other,548,2024-01-24T17:29:53Z
+https://github.com/nmap/nmap,0.58837,,1001,2.52,61,228,16094,2.21,1,0,1652,0,2005-04-11T22:34:19Z,C,Other,8846,2024-01-30T14:46:49Z
+https://github.com/kcat/openal-soft,0.63194,,645,11.77,80,197,1448,4.36,3,2,839,0,2007-11-14T02:02:18Z,C++,Other,1970,2024-01-30T11:49:50Z
+https://github.com/ARM-software/CMSIS_5,0.61433,,1171,0.87,133,96,2714,2.78,3,2,1370,7,2016-02-18T08:04:18Z,C,Apache License 2.0,1160,2023-06-21T12:52:04Z
+https://github.com/aseprite/aseprite,0.64676,,1679,10.37,122,199,1003,1.92,3,12,2974,2,2007-09-18T23:57:02Z,C++,,25332,2023-11-11T11:06:15Z
+https://github.com/bitcoin-core/secp256k1,0.69568,,878,10.06,102,132,12394,5.68,4,5,1008,0,2013-03-05T00:29:08Z,C,MIT License,1910,2024-01-25T13:56:53Z
+https://github.com/RTEMS/rtems,0.61109,,24,10.54,316,349,13663,0.67,3,1,30,0,1995-05-11T17:39:37Z,C,Other,603,2024-01-22T21:53:27Z
+https://github.com/dynup/kpatch,0.65174,,597,0.94,82,134,9915,3.95,6,2,613,0,2013-01-16T17:28:59Z,C,GNU General Public License v2.0,1388,2024-01-22T17:58:58Z
+https://github.com/samtools/bcftools,0.62684,,1183,2.71,54,143,1017,2.75,7,3,1413,0,2012-04-29T04:20:48Z,C,Other,590,2024-01-29T13:59:33Z
+https://github.com/google/re2,0.61953,269,293,2.1,63,169,3934,3.28,3,8,293,0,2010-03-03T01:17:51Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",8442,2024-01-30T20:45:00Z
+https://github.com/DGtal-team/DGtal,0.61472,,444,5.31,67,169,343,3.23,9,1,487,0,2010-03-03T12:01:28Z,C++,GNU Lesser General Public License v3.0,352,2024-01-28T10:29:01Z
+https://github.com/Intel-Media-SDK/MediaSDK,0.62675,,2804,0.4,184,83,3541,1.48,2,16,2977,8,2017-04-04T14:52:06Z,C++,MIT License,905,2023-05-17T16:55:38Z
+https://github.com/isl-org/Open3D,0.62204,,4984,2.23,217,103,44,2.64,8,2,6005,0,2015-07-28T00:31:54Z,C++,Other,10070,2024-01-19T17:17:58Z
+https://github.com/libopencm3/libopencm3,0.62718,,575,0.67,259,177,1005,2.7,8,0,772,0,2009-07-15T16:59:07Z,C,GNU General Public License v3.0,2866,2024-01-02T13:59:59Z
+https://github.com/topology-tool-kit/ttk,0.59481,,907,10.17,52,84,354,2.25,6,1,925,0,2017-03-05T07:41:40Z,C++,Other,387,2024-01-17T05:33:55Z
+https://github.com/CMU-Perceptual-Computing-Lab/openpose,0.62079,,1587,0.15,107,82,610,2.97,9,2,1883,0,2017-04-24T14:06:31Z,C++,Other,29220,2024-01-09T14:04:19Z
+https://github.com/jiangwenyuan/nuster,0.58133,,102,0,220,220,56,7.18,5,3,123,26,2005-12-17T11:21:26Z,C,Other,1904,2021-12-07T14:46:05Z
+https://github.com/ROCm/HIP,0.67439,,2592,3.46,204,98,3863,1.33,6,9,3023,0,2016-01-07T17:41:56Z,C++,MIT License,3310,2024-01-19T21:37:40Z
+https://github.com/FreeFem/FreeFem-sources,0.62091,,255,3.08,40,240,1277,3.29,9,3,296,1,2004-04-26T09:58:47Z,C++,Other,668,2023-12-03T20:03:22Z
+https://github.com/the-tcpdump-group/tcpdump,0.625,,422,6.02,211,296,800,4.26,3,1,514,0,1999-10-07T23:47:09Z,C,Other,2464,2024-01-28T16:58:38Z
+https://github.com/RcppCore/Rcpp,0.60602,,581,1.25,79,169,278,4.78,6,2,583,0,2010-02-16T15:52:41Z,C++,GNU General Public License v2.0,716,2024-01-09T13:06:32Z
+https://github.com/cpputest/cpputest,0.57848,,627,0.13,157,202,259,2.43,6,0,780,3,2007-06-24T05:37:56Z,C++,"BSD 3-Clause ""New"" or ""Revised"" License",1284,2023-10-13T08:54:59Z
+https://github.com/erthink/libmdbx,0.60384,,223,0,29,110,3673,4.22,7,4,245,21,2015-01-07T13:49:50Z,C,Other,1121,2022-04-13T08:05:50Z
+https://github.com/intel/intel-graphics-compiler,0.67922,,286,51.08,277,77,2898,4.25,2,12,311,0,2017-09-29T17:27:54Z,C++,Other,553,2024-01-17T20:16:23Z
+https://github.com/KiCad/kicad-source-mirror,0.64602,,10,92.77,832,203,964,0.4,5,9,10,0,2007-05-06T16:03:28Z,C++,GNU General Public License v3.0,1577,2024-01-30T23:06:58Z
+https://github.com/dankamongmen/notcurses,0.65944,,2434,0.42,39,51,2421,4.49,9,32,2680,0,2019-11-17T02:38:24Z,C,Other,3018,2024-01-10T03:14:49Z
